@@ -1,12 +1,12 @@
 
-http://dfos.co/archive.html
-http://dfos.co/atom.xml
-http://dfos.co/categories.html
-http://dfos.co/index.html
-http://dfos.co/pages.html
-http://dfos.co/rss.xml
-http://dfos.co/sitemap.txt
-http://dfos.co/tags.html
+http://danielfos.co/archive.html
+http://danielfos.co/atom.xml
+http://danielfos.co/categories.html
+http://danielfos.co/index.html
+http://danielfos.co/pages.html
+http://danielfos.co/rss.xml
+http://danielfos.co/sitemap.txt
+http://danielfos.co/tags.html
 
-http://dfos.co/lessons/2013/12/25/2013-12-25-test
-http://dfos.co/lessons/2011/12/29/jekyll-introduction
+http://danielfos.co/lessons/2013/12/25/2013-12-25-test
+http://danielfos.co/lessons/2011/12/29/jekyll-introduction
