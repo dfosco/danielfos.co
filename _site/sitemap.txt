@@ -1,0 +1,12 @@
+
+http://dfos.co/archive.html
+http://dfos.co/atom.xml
+http://dfos.co/categories.html
+http://dfos.co/index.html
+http://dfos.co/pages.html
+http://dfos.co/rss.xml
+http://dfos.co/sitemap.txt
+http://dfos.co/tags.html
+
+http://dfos.co/lessons/2013/12/25/2013-12-25-test
+http://dfos.co/lessons/2011/12/29/jekyll-introduction
