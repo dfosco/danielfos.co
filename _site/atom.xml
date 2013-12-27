@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Jekyll Bootstrap</title>
+ <title>Daniel Fosco</title>
  <link href="http://danielfos.co/" rel="self"/>
  <link href="http://danielfos.co"/>
- <updated>2013-12-26T15:09:15-02:00</updated>
+ <updated>2013-12-26T20:27:18-02:00</updated>
  <id>http://danielfos.co</id>
  <author>
    <name>Daniel Fosco</name>
