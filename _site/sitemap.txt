@@ -1,12 +1,12 @@
 
-http://danielfos.co/archive.html
-http://danielfos.co/atom.xml
-http://danielfos.co/categories.html
-http://danielfos.co/index.html
-http://danielfos.co/pages.html
-http://danielfos.co/rss.xml
-http://danielfos.co/sitemap.txt
-http://danielfos.co/tags.html
+http://dfosco.github.io/archive.html
+http://dfosco.github.io/atom.xml
+http://dfosco.github.io/categories.html
+http://dfosco.github.io/index.html
+http://dfosco.github.io/pages.html
+http://dfosco.github.io/rss.xml
+http://dfosco.github.io/sitemap.txt
+http://dfosco.github.io/tags.html
 
-http://danielfos.co/lessons/2013/12/25/2013-12-25-test
-http://danielfos.co/lessons/2011/12/29/jekyll-introduction
+http://dfosco.github.io/lessons/2013/12/25/2013-12-25-test
+http://dfosco.github.io/lessons/2011/12/29/jekyll-introduction
