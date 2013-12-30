@@ -49,11 +49,12 @@ hr {
 }
 
 a {
-  color: #CC514E;
+  color: #CD544E;
 }
 
 a:hover{
   text-decoration: none;
+  color: #d97e7c;
  /* color: #CC514E; */
 }
 
@@ -154,7 +155,7 @@ a:hover{
   letter-spacing: 1px;
   font-family: 'Lato', sans-serif;
   font-size: 20px;
-  font-weight: 100;
+  font-weight: 400;
   outline: none;
   position: relative;
   -webkit-transition: all 0.3s;
@@ -172,21 +173,21 @@ a:hover{
 }
 
 .btnn:hover {
-box-shadow: 0 4px #ab3c3c;
+box-shadow: 0 4px #444;
 top: 2px;
 }
 
 .btnn:active {
-  box-shadow: 0 0 #ab3c3c;
+  box-shadow: 0 0 #444;
   top: 6px;
 }
 
 
 /* Button 2 */
 .btnn-2 {
-  background: #cb4e4e;
-  color: #E9E9EB;
-  box-shadow: 0 6px #ab3c3c;
+  background: #555;
+  color: #CD544E;
+  box-shadow: 0 6px #444;
   -webkit-transition: none;
   -moz-transition: none;
   transition: none;
@@ -199,13 +200,13 @@ top: 2px;
 }
 
 .btnn-2c:hover {
-  box-shadow: 0 4px #ab3c3c;
+  box-shadow: 0 4px #444;
   top: 2px;
-  color: #E9E9EB;
+  color: #D97E7C;
 }
 
 .btnn-2c:active {
-  box-shadow: 0 0 #ab3c3c;
+  box-shadow: 0 0 #D97E7C;
   top: 6px;
   color: #E9E9EB;
 }
