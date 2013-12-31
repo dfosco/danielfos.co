@@ -27,7 +27,7 @@ Rio de Janeiro.
 
 Atualmente trabalha na consultoria <a href="https://www.facebook.com/hub9.co" target="_blank">Hub9</a>.
 
-Anteriormente, atuou como gerente de distribuição de conteúdo para a agregadora de e-books <a class="xeriph" href="http://www.xeriph.com.br" target="_blank">Xeriph</a>.
+Antes disso, foi gerente de qualidade e distribuição de e-books na <a class="xeriph" href="http://www.xeriph.com.br" target="_blank">Xeriph</a>.
 
 
 
