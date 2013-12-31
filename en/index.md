@@ -44,7 +44,7 @@ Previously, manager for QA and content distribution at the <span class="nowrap">
 <div class="icon"><a href="https://br.linkedin.com/in/danielfosco/en" target="_blank"><span class="screen-reader-text">Linkedin</span><i class="fa fa-linkedin fa-2x"> </i></a></div>
 
 
-<div class="text-center" id="translate"><small>Ei! Quer o site em português? <a href="{{ site.production_url }}">Clique aqui</a>.</small></div>
+<div class="text-center" id="translate"><small>Ei! Quer o site em português? <a href="{{ site.production_url }}" title="Versão em português">Clique aqui</a>.</small></div>
 
 
 
