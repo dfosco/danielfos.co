@@ -119,9 +119,11 @@ a:hover{
 }
 
 #translate {
-
   padding-top: 70px;
+}
 
+.nowrap {
+  white-space:nowrap;
 }
 
 /*CALLOUTS*/

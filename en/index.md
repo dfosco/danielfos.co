@@ -15,8 +15,8 @@ Can't seem to leave the computer, though.
 
 In practice, makes:
 
-<p class="callout callout-top">Content Strategy</p>
-<p class="callout">Web Design</p>
+<p class="callout callout-top">Web Design</p>
+<p class="callout">Content Strategy</p>
 <p class="callout line callout-bottom">Spaghetti code</p>
 
 ###Where
@@ -27,7 +27,7 @@ Rio de Janeiro, Brazil.
 
 Currently working at the tech consulting startup <a href="https://www.facebook.com/hub9.co" target="_blank">Hub9</a>.
 
-Previously, manager for content distribution and QA at the e-book aggregator <a class="xeriph" href="http://www.xeriph.com.br" target="_blank">Xeriph</a>.
+Previously, manager for QA and content distribution at the <span class="nowrap">e-books</span> aggregator <a class="xeriph" href="http://www.xeriph.com.br" target="_blank">Xeriph</a>.
 
 ###Projects
 
