@@ -27,7 +27,7 @@ Rio de Janeiro, Brazil.
 
 Currently working at the tech consulting startup <a href="https://www.facebook.com/hub9.co" target="_blank">Hub9</a>.
 
-Previously, manager for content QA and distribution at the e-book aggregator <a class="xeriph" href="http://www.xeriph.com.br" target="_blank">Xeriph</a>.
+Previously, manager for content distribution and QA at the e-book aggregator <a class="xeriph" href="http://www.xeriph.com.br" target="_blank">Xeriph</a>.
 
 ###Projects
 
