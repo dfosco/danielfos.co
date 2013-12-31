@@ -2,7 +2,7 @@
 http://dfosco.github.io/archive.html
 http://dfosco.github.io/atom.xml
 http://dfosco.github.io/categories.html
-http://dfosco.github.io/en.html
+http://dfosco.github.io/en/index.html
 http://dfosco.github.io/index.html
 http://dfosco.github.io/pages.html
 http://dfosco.github.io/rss.xml

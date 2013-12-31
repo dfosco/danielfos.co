@@ -27,7 +27,7 @@ Rio de Janeiro, Brazil.
 
 Currently working at the tech consulting startup <a href="https://www.facebook.com/hub9.co" target="_blank">Hub9</a>.
 
-Previously, manager for QA and content distribution at the e-book aggregator <a class="xeriph" href="http://www.xeriph.com.br" target="_blank">Xeriph</a>.
+Previously, manager for content QA and distribution at the e-book aggregator <a class="xeriph" href="http://www.xeriph.com.br" target="_blank">Xeriph</a>.
 
 ###Projects
 
@@ -44,7 +44,7 @@ Previously, manager for QA and content distribution at the e-book aggregator <a 
 <div class="icon"><a href="https://br.linkedin.com/in/danielfosco/en" target="_blank"><span class="screen-reader-text">Linkedin</span><i class="fa fa-linkedin fa-2x"> </i></a></div>
 
 
-<div class="text-center" id="translate"><small>Ei! Quer o site em português? <a href="http://dfosco.github.io">Clique aqui</a>.</small></div>
+<div class="text-center" id="translate"><small>Ei! Quer o site em português? <a href="{{ site.production_url }}">Clique aqui</a>.</small></div>
 
 
 
