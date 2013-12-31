@@ -25,9 +25,9 @@ Na prática, faz:
 
 Rio de Janeiro. 
 
-Atualmente trabalha na consultoria <a href="https://www.facebook.com/hub9.co" target="_blank">Hub9</a>.
+Atualmente trabalha na consultoria <a href="https://www.facebook.com/hub9.co" title="Facebook Hub 9" target="_blank">Hub9</a>.
 
-Antes disso, foi gerente de distribuição e controle de qualidade na agregadora de <span class="nowrap">e-books</span> <a class="xeriph" href="http://www.xeriph.com.br" target="_blank">Xeriph</a>.
+Antes disso, foi gerente de distribuição e controle de qualidade na agregadora de <span class="nowrap">e-books</span> <a class="xeriph" href="http://www.xeriph.com.br" title="Homepage Xeriph" target="_blank">Xeriph</a>.
 
 
 
@@ -35,7 +35,7 @@ Antes disso, foi gerente de distribuição e controle de qualidade na agregadora
 
 ---
 
-<div class="button-desktop"><a class="btnn-2c btnn-2 btnn spaace" href="http://framevvork.com" target="_blank">frame vvork</a></div>
+<div class="button-desktop"><a class="btnn-2c btnn-2 btnn spaace" href="http://framevvork.com" title="Blog Framevvork" target="_blank">frame vvork</a></div>
 
 
 ###Contato
