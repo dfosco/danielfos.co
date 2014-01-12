@@ -1,8 +1,8 @@
 /* Custom Main Classes */
 
 body {
-  background: #333333;
-  color: #E9E9EB;
+  background: #ffffff;
+  color: #333333;
   font-family: 'Vollkorn', 'Times';
   font-size: 26px;
   line-height: 37px;
@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-  color: #B99A54;
+  color: #CE574E;
   font-family: 'Lato', sans-serif; 
   font-weight: 100;
   font-size: 80px;
@@ -43,7 +43,7 @@ h3 {
   line-height: 30px;
   font-style: italic;
   font-weight: normal;
-  color: #E9E9EB;
+  color: #333333;
   text-align: center;
   margin: 45px 0 5px 0  
 }
@@ -101,6 +101,11 @@ a:hover{
    width: 80%; 
 }
 
+.content-center {
+
+
+}
+
 .screen-reader-text { /* Reusable, toolbox kind of class */
   position: absolute;
   top: -9999px;
@@ -129,12 +134,12 @@ a:hover{
 /*CALLOUTS*/
 
 .callout {
-  color: #BA9A50;
+  color: #CE574E;
   text-align: center;
   font-family: 'Vollkorn', sans-serif;
   font-weight: 100;
   font-size: 26px;
-  line-height: 37px;
+  line-height: 34px;
 }
 
 .callout-top {
@@ -263,19 +268,16 @@ top: 2px;
 /* Landscape phones and down */
 @media (max-width: 480px) { 
 
-.row-fluid {
+  .row-fluid {
     width: 92%;
   }
 
-body {
-  font-size: 21px;
-  line-height: 30px;
-}
-
  .callout {
+  color: #BA9A50;
   text-align: left;
-  font-size: 21px;
-  line-height: 30px;
+  font-family: 'Vollkorn', sans-serif;
+  font-size: 23px;
+  line-height: 34px;
 }
 
 .callout:before {
@@ -303,25 +305,13 @@ body {
   width: 62%;
 }
 
-body {
-  font-size: 21px;
-  line-height: 30px;
-}
-
- .callout {
+.callout {
   text-align: left;
-  font-size: 21px;
-  line-height: 30px;
 }
 
 .callout:before {
-   content: "• ";
+  content: "• ";
 }
-
-#quem {
-
-  margin: 0 0 5px 0;
-} 
 
  }
  
