@@ -95,9 +95,6 @@ ul,ol {
 ul li {
   color: #BA9A50;
   text-align: center;
-  font-family: 'Vollkorn', sans-serif;
-  font-weight: 100;
-  font-size: 26px;
   line-height: 44px;
   list-style-type:none;
 }
@@ -274,14 +271,33 @@ body {
   line-height: 30px;
 }
 
- .callout {
+ul li {
   text-align: left;
-  font-size: 21px;
-  line-height: 30px;
+  list-style-type: disc;
+
 }
 
-.callout:before {
-   content: "• ";
+li :selection {
+  background: #999; /* Safari */
+  }
+
+li ::-moz-selection {
+  background: #555; /* Firefox */
+}
+
+ul li:first-child {
+ margin-top: 15px;
+}
+
+ul li:last-child {
+  margin-bottom: 15px;
+  text-decoration: line-through;
+}
+
+ul,ol {
+  margin: 0 0 0 25px;
+
+  /* line-height: 31px; */
 }
 
 .icon {
@@ -308,16 +324,6 @@ body {
 body {
   font-size: 21px;
   line-height: 30px;
-}
-
- .callout {
-  text-align: left;
-  font-size: 21px;
-  line-height: 30px;
-}
-
-.callout:before {
-   content: "• ";
 }
 
 #quem {
