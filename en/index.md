@@ -15,9 +15,9 @@ Can't seem to leave the computer, though.
 
 In practice, makes:
 
-<p class="callout callout-top">Web Design</p>
-<p class="callout">Content Strategy</p>
-<p class="callout line callout-bottom">Spaghetti code</p>
+  - Content Strategy
+  - Web Design
+  - Spaghetti code
 
 ###Where
 

@@ -230,9 +230,9 @@ top: 2px;
 
 /* Button 2 */
 .btnn-2 {
-  background: #555;
-  color: #CD544E;
-  box-shadow: 0 6px #444;
+  background: #CE574E;
+  color: #333333;
+  box-shadow: 0 6px #973E38;
   -webkit-transition: none;
   -moz-transition: none;
   transition: none;
@@ -245,15 +245,15 @@ top: 2px;
 }
 
 .btnn-2c:hover {
-  box-shadow: 0 4px #444;
+  box-shadow: 0 4px #984038;
   top: 2px;
-  color: #D97E7C;
+  color: #333333;
 }
 
 .btnn-2c:active {
-  box-shadow: 0 0 #D97E7C;
+  box-shadow: 0 0 #984038;
   top: 6px;
-  color: #E9E9EB;
+  color: #333333;
 }
 
 
@@ -311,6 +311,12 @@ ul,ol {
   margin: 0 0 5px 0;
 } 
 
+
+.btnn {
+padding: 5px 20px;
+font-size: 18px;
+}
+
  }
 
 
@@ -330,6 +336,7 @@ body {
 
   margin: 0 0 5px 0;
 } 
+
 
  }
  
