@@ -15,9 +15,9 @@ Não consegue sair da frente do computador.
 
 Na prática, faz:
 
-<p class="callout callout-top">Estratégia de Conteúdo</p>
-<p class="callout">Web Design</p>
-<p class="callout line callout-bottom">Gambiarras</p>
+ - Estratégia de Conteúdo
+ - Web Design
+ - Gambiarras
 
 
 ###Onde
