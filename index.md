@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Daniel Fosco
-tagline: 
+tagline: null
+published: true
 ---
+
 {% include JB/setup %}
 
 ###Quem
@@ -26,9 +28,9 @@ Na prática, faz:
 
 Rio de Janeiro. 
 
-Atualmente trabalha na consultoria <a href="https://www.facebook.com/hub9.co">Hub9</a>.
+Atualmente trabalha na consultoria [Hub9](https://www.facebook.com/hub9.co "Hub9 Facebook page").
 
-Antes disso, foi gerente de distribuição e controle de qualidade na agregadora de <span class="nowrap">e-books</span> <a class="xeriph" href="http://www.xeriph.com.br">Xeriph</a>.
+Antes disso, foi gerente de distribuição e controle de qualidade na agregadora de <span class="nowrap">e-books</span> [Xeriph](http://www.xeriph.com.br "Xeriph Homepage").
 
 
 
