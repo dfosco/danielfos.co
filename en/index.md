@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Daniel Fosco
-tagline: 
+tagline: null
+published: true
 ---
+
 {% include JB/setup %}
 
 ###Who
@@ -25,9 +27,9 @@ In practice, makes:
 
 Rio de Janeiro, Brazil. 
 
-Currently working at the tech consulting startup <a href="https://www.facebook.com/hub9.co" title="Facebook Hub 9" target="_blank">Hub9</a>.
+Currently working at the tech consulting startup [Hub9](https://www.facebook.com/hub9.co "Hub9 Facebook page").
 
-Previously, manager for QA and content distribution at the <span class="nowrap">e-book</span> aggregator <a class="xeriph" href="http://www.xeriph.com.br" title="Homepage Xeriph" target="_blank">Xeriph</a>.
+Previously, manager for QA and content distribution at the <span class="nowrap">e-book</span> aggregator [Xeriph](http://www.xeriph.com.br "Xeriph Homepage").
 
 ###Projects
 
@@ -45,7 +47,3 @@ Previously, manager for QA and content distribution at the <span class="nowrap">
 
 
 <div class="text-center" id="translate"><small>Ei! Quer o site em português? <a href="{{ site.production_url }}" title="Versão em português">Clique aqui</a>.</small></div>
-
-
-
-
