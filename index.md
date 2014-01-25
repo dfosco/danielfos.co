@@ -38,7 +38,7 @@ Antes disso, foi gerente de distribuição e controle de qualidade na agregadora
 
 ---
 
-<div class="button-desktop"><a class="btnn-2c btnn-2 btnn spaace" href="http://framevvork.com">frame vvork</a></div>
+<div class="button-desktop"><a class="btnn-2c btnn-2 btnn" href="http://framevvork.com">frame<wbr>vvork</a></div>
 
 
 ###Contato
