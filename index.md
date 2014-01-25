@@ -48,4 +48,4 @@ Antes disso, foi gerente de distribuição e controle de qualidade na agregadora
 <div class="icon"><a href="https://www.github.com/dfosco"><span class="screen-reader-text">Github</span><i class="fa fa-github-alt fa-2x"> </i></a></div>
 <div class="icon"><a href="https://br.linkedin.com/in/danielfosco"><span class="screen-reader-text">Linkedin</span><i class="fa fa-linkedin fa-2x"> </i></a></div>
 
-<div class="text-center" id="translate"><small>Psst. Want the english version? <a href="{{ BASE_PATH }}/en" title="English Version">Here it is</a>.</small></div>
+<div class="text-center" id="translate"><small>Psst. Want the english version? <a href="http://danielfos.co/en" title="English Version">Here it is</a>.</small></div>
