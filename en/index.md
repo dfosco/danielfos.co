@@ -35,7 +35,7 @@ Previously, manager for QA and content distribution at the <span class="nowrap">
 
 ---
 
-<div class="button-desktop"><a class="btnn-2c btnn-2 btnn" href="http://framevvork.com" title="Blog Framevvork" target="_blank">frame<wbr>vvork</a></div>
+<div class="button-desktop"><a class="btnn-2c btnn-2 btnn spaace" href="http://framevvork.com" title="Blog Framevvork" target="_blank">frame vvork</a></div>
 
 
 ###Contact
