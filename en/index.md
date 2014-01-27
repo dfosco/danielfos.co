@@ -7,7 +7,7 @@ published: true
 
 {% include JB/setup %}
 
-###Who
+##Who
 
 ---
 
@@ -21,7 +21,7 @@ In practice, makes:
   - Web Design
   - Spaghetti code
 
-###Where
+##Where
 
 ---
 
@@ -31,14 +31,14 @@ Currently working at the tech consulting startup [Hub9](https://www.facebook.com
 
 Previously, manager for QA and content distribution at the <span class="nowrap">e-book</span> aggregator [Xeriph](http://www.xeriph.com.br "Xeriph Homepage").
 
-###Projects
+##Projects
 
 ---
 
-<div class="button-desktop"><a class="btnn-2c btnn-2 btnn spaace" href="http://framevvork.com" title="Blog Framevvork" target="_blank">frame vvork</a></div>
+<div class="button-desktop"><a class="btnn-2c btnn-2 btnn spaace" href="http://framevvork.com" title="Blog Framevvork" target="_blank">frame<wbr/>vvork</a></div>
 
 
-###Contact
+##Contact
 ---
 <div class="icon"><a href="mailto:danielfosco@gmail.com" target="_blank"><span class="screen-reader-text">Email</span><i class="fa fa-envelope-o fa-2x"> </i></a></div>
 <div class="icon"><a href="https://www.twitter.com/notdanielfosco" target="_blank"><span class="screen-reader-text">Twitter</span><i class="fa fa-twitter fa-2x"> </i></a></div>  

@@ -4,8 +4,8 @@ body {
   background: #333333;
   color: #E9E9EB;
   font-family: 'Vollkorn', 'Times';
-  font-size: 26px;
-  line-height: 37px;
+  font-size: 24px;
+  line-height: 33px;
 }
 
 ::selection {
@@ -29,15 +29,7 @@ h1 {
   user-select: none; 
 }
 
-h1.phone {
- color: #B99A54;
- line-height: 105px;
- text-align: center;
- margin: -55px 0 0 0;
- padding-bottom: 0px;
-}
-
-h3 {
+h2 {
   font-family: 'Vollkorn', 'Times';
   font-size: 21px;
   line-height: 30px;
@@ -59,6 +51,7 @@ hr {
   -o-user-select: none;
   user-select: none; 
 }
+
 
 .container-narrow > hr {
   margin:30px 0 5px 0;
@@ -266,6 +259,15 @@ top: 2px;
     width: 92%;
   }
 
+
+h1 {
+ line-height: 105px;
+ text-align: center;
+ margin: -55px 0 0 0;
+ padding-bottom: 0px;
+}
+
+
 body {
   font-size: 21px;
   line-height: 30px;
@@ -274,7 +276,6 @@ body {
 ul li {
   text-align: left;
   list-style-type: disc;
-
 }
 
 li :selection {
@@ -296,8 +297,6 @@ ul li:last-child {
 
 ul,ol {
   margin: 0 0 0 25px;
-
-  /* line-height: 31px; */
 }
 
 .icon {
@@ -315,6 +314,24 @@ ul,ol {
  }
 
 
+/* H1 adjustment between Landscape phone and portrait tablet */
+@media (min-width: 481px) and (max-width: 608px) {
+
+h1 {
+ line-height: 105px;
+ text-align: center;
+ margin: -55px 0 0 0;
+ padding-bottom: 0px;
+}
+
+#quem {
+
+  margin: 0 0 5px 0;
+} 
+
+
+ }
+
 /* Landscape phone to portrait tablet */
 @media (min-width: 481px) and (max-width: 768px) { 
 
@@ -327,10 +344,7 @@ body {
   line-height: 30px;
 }
 
-#quem {
 
-  margin: 0 0 5px 0;
-} 
 
 
  }

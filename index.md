@@ -7,7 +7,7 @@ published: true
 
 {% include JB/setup %}
 
-###Quem
+##Quem
 
 ---
 
@@ -22,7 +22,7 @@ Na prática, faz:
  - Gambiarras
 
 
-###Onde
+##Onde
 
 ---
 
@@ -34,14 +34,14 @@ Antes disso, foi gerente de distribuição e controle de qualidade na agregadora
 
 
 
-###Projetos
+##Projetos
 
 ---
 
-<div class="button-desktop"><a class="btnn-2c btnn-2 btnn spaace" href="http://framevvork.com">frame vvork</a></div>
+<div class="button-desktop"><a class="btnn-2c btnn-2 btnn" href="http://framevvork.com">frame<wbr/>vvork</a></div>
 
 
-###Contato
+##Contato
 ---
 <div class="icon"><a href="mailto:danielfosco@gmail.com"><span class="screen-reader-text">Email</span><i class="fa fa-envelope-o fa-2x"> </i></a></div>
 <div class="icon"><a href="https://www.twitter.com/notdanielfosco"><span class="screen-reader-text">Twitter</span><i class="fa fa-twitter fa-2x"> </i></a></div>
