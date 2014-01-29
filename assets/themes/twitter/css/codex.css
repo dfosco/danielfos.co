@@ -1,11 +1,13 @@
+/*-------------------------------------------------*/
 /* Custom Main Classes */
-
+/*-------------------------------------------------*/
 body {
   background: #ffffff;
   color: #333333;
   font-family: 'Vollkorn', 'Times';
-  font-size: 26px;
-  line-height: 37px;
+  font-size: 21px;
+  line-height: 30px;
+  text-align: justify;
 }
 
 ::selection {
@@ -17,8 +19,8 @@ body {
 }
 
 h1 {
-  color: #CE574E;
-  font-family: 'Lato', sans-serif; 
+  color: #001497;
+  font-family: 'Vollkorn', serif; 
   font-weight: 100;
   font-size: 80px;
   text-transform: uppercase;
@@ -26,64 +28,86 @@ h1 {
   -khtml-user-select: none;
   -moz-user-select: none;
   -o-user-select: none;
-  user-select: none; 
+  user-select: none;  
+  text-align: center;
+
 }
 
-h1.phone {
- color: #B99A54;
- line-height: 105px;
- text-align: center;
- margin: -55px 0 0 0;
- padding-bottom: 0px;
-}
-
-h3 {
+h2 {
   font-family: 'Vollkorn', 'Times';
   font-size: 21px;
   line-height: 30px;
   font-style: italic;
-  font-weight: normal;
-  color: #333333;
+  font-weight: 100;
+  color: #001497;
   text-align: center;
-  margin: 45px 0 5px 0  
+  margin: 45px 0 5px 0;
+  letter-spacing: 0.02em;
 }
 
-hr {
-  margin:-5px 0 20px 0;
+
+.row-fluid hr {
+  margin: 0 auto;
   border:0;
-  border-top:1px solid #222;
-  border-bottom:1px solid #555;
+  border-top: 1px solid #D6D6D6;
+  border-bottom: -1px solid #B8B8B8;
   -webkit-user-select: none;
   -khtml-user-select: none;
   -moz-user-select: none;
   -o-user-select: none;
   user-select: none; 
+  margin-bottom: 20px;
 }
 
 .container-narrow > hr {
   margin:30px 0 5px 0;
   border:0;
-  border-top:1px solid #444;
+  border-top: 1px solid #D6D6D6;
+  border-bottom: -1px solid #B8B8B8;
 }
 
 a {
-  color: #CD544E;
-}
-
-a.xeriph {
-  color: #3998C8;
-}
-
-a.xeriph:hover{
-  text-decoration: none;
-  color: #3EA4D8;
- /* color: #CC514E; */
+  color: #2D43BB;
 }
 
 a:hover{
   text-decoration: none;
-  color: #d97e7c;
- /* color: #CC514E; */
+  color: #5E72DB;
+}
+
+ul {
+  padding:0;margin:0 0 10px 0;
+
+}
+
+ul a {
+  color: #BB9A4B;
+}
+
+ul a:hover {
+  text-decoration: none;
+  color: #CAAD6A;
+}
+
+ol {
+  padding:0;margin:0 0 30px 0;
+  list-style-type:none;
+}
+
+ul li {
+  color: #BA9A50;
+  text-align: center;
+  line-height: 44px;
+  list-style-type:none;
+}
+
+ul li:first-child {
+ margin-top: 15px;
+}
+
+ul li:last-child {
+  margin-bottom: 15px;
+  text-decoration: line-through;
 }
 
 .page-header {
@@ -92,18 +116,19 @@ a:hover{
   padding-bottom: 0px;
 }
 
+p.port {
+ margin-bottom: 25px;
+}
+
+/*-------------------------------------------------*/
 /* CUSTOM CLASSES */
+/*-------------------------------------------------*/
 
 /*General*/
 
 .row-fluid {
    margin: 0 auto; 
    width: 80%; 
-}
-
-.content-center {
-
-
 }
 
 .screen-reader-text { /* Reusable, toolbox kind of class */
@@ -129,29 +154,6 @@ a:hover{
 
 .nowrap {
   white-space:nowrap;
-}
-
-/*CALLOUTS*/
-
-.callout {
-  color: #CE574E;
-  text-align: center;
-  font-family: 'Vollkorn', sans-serif;
-  font-weight: 100;
-  font-size: 26px;
-  line-height: 34px;
-}
-
-.callout-top {
- margin-top: 15px;
-}
-
-.callout-bottom {
-  margin-bottom: 15px;
-}
-
-.line {
-  text-decoration: line-through;
 }
 
 /*Botões*/
@@ -185,8 +187,9 @@ a:hover{
   user-select: none; 
 }
 
-
+/*-------------------------------------------------*/
 /*CODROPS BUTTONS*/
+/*-------------------------------------------------*/
 
 /* General button style (reset) */
 .btnn {
@@ -236,9 +239,9 @@ top: 2px;
 
 /* Button 2 */
 .btnn-2 {
-  background: #555;
-  color: #CD544E;
-  box-shadow: 0 6px #444;
+  background: #CE574E;
+  color: #333333;
+  box-shadow: 0 6px #973E38;
   -webkit-transition: none;
   -moz-transition: none;
   transition: none;
@@ -251,66 +254,64 @@ top: 2px;
 }
 
 .btnn-2c:hover {
-  box-shadow: 0 4px #444;
+  box-shadow: 0 4px #984038;
   top: 2px;
-  color: #D97E7C;
+  color: #333333;
 }
 
 .btnn-2c:active {
-  box-shadow: 0 0 #D97E7C;
+  box-shadow: 0 0 #984038;
   top: 6px;
-  color: #E9E9EB;
+  color: #333333;
 }
 
-
+/*-------------------------------------------------*/
 /*MEDIA QUERIES*/
+/*-------------------------------------------------*/
 
 /* Landscape phones and down */
 @media (max-width: 480px) { 
 
-  .row-fluid {
+.row-fluid {
     width: 92%;
   }
 
- .callout {
-  color: #BA9A50;
+h1 {
+  margin-top: -30px;
+}
+
+body {
+  font-size: 21px;
+  line-height: 30px;
   text-align: left;
-  font-family: 'Vollkorn', sans-serif;
-  font-size: 23px;
-  line-height: 34px;
 }
-
-.callout:before {
-   content: "• ";
-}
-
-.icon {
-  float: left;
-  margin-left: 6%;
-  margin-right: 2%;
-}
-
-#quem {
-
-  margin: 0 0 5px 0;
-} 
 
  }
 
+/* Additional Break Point to Correct H1 top-margin behavior*/ 
+@media (min-width: 609px) and (max-width: 768px) { 
+
+  h1 {
+   margin-top: 30px;
+  }
+
+}
 
 /* Landscape phone to portrait tablet */
 @media (min-width: 481px) and (max-width: 768px) { 
+
 
 .row-fluid {
   width: 62%;
 }
 
-.callout {
-  text-align: left;
+h1 {
+  margin-top: -30px;
 }
 
-.callout:before {
-  content: "• ";
+body {
+  font-size: 21px;
+  line-height: 30px;
 }
 
  }
@@ -325,7 +326,13 @@ top: 2px;
 
  }
  
-/* Default: 940px and up  */
+/* Default: 940px and up  
  
-/* Large desktop 
-@media (min-width: 1210px) { ... } */
+@media (min-width: 1210px) { ... }
+*/
+
+/* Large desktop  
+@media (min-width: 1210px) { ... }
+*/ 
+
+

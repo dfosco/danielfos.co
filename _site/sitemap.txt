@@ -3,8 +3,8 @@ danielfos.co/archive.html
 danielfos.co/atom.xml
 danielfos.co/categories.html
 danielfos.co/en/index.html
+danielfos.co/en/livro.html
 danielfos.co/index.html
-danielfos.co/livro/index.html
 danielfos.co/livro.html
 danielfos.co/pages.html
 danielfos.co/rss.xml
