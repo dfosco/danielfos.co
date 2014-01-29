@@ -38,7 +38,7 @@ Antes disso, foi gerente de distribuição e controle de qualidade na agregadora
 
 ---
 
-<p class="port"><a href="http://www.agenciarastro.com.br/clientes/cobra" alt="CobraBijouterias">Cobra Bijouterias</a> Produção de conteúdo.</p>
+<p class="port"><a href="http://www.cobrabijouterias.com.br" alt="CobraBijouterias">Cobra Bijouterias</a> Produção de conteúdo.</p>
 
 <p class="port"><a href="http://www.cobracnc.com.br" alt="CobraCNC">CobraCNC</a> Estratégia e produção de conteúdo, webdesign, marketing digital.</p>
 
