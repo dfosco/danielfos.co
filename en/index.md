@@ -50,7 +50,7 @@ Previously, manager for QA and content distribution at the <span class="nowrap">
 
 <p class="port"><a href="http://www.framevvork.com" title="Framevvork">Framevvork</a> A list of nice things on the web.</p>
 
-<p class="port"><a href="http://danielfos.co/en/livro" title="LIVRO">LIVRO</a> Research on the past and future of book technologies.</p>
+<p class="port"><a href="/livro" title="LIVRO">LIVRO</a> Research on the past and future of book technologies.</p>
 
 
 ##Say hi
@@ -61,4 +61,4 @@ Previously, manager for QA and content distribution at the <span class="nowrap">
 <div class="icon"><a href="https://br.linkedin.com/in/danielfosco/en" target="_blank"><span class="screen-reader-text">Linkedin</span><i class="fa fa-linkedin fa-2x"> </i></a></div>
 
 
-<div class="text-center" id="translate"><small>Ei. Fala português? <a href="http://danielfos.co" title="Versão em português">Clique aqui</a>.</small></div>
+<div class="text-center" id="translate"><small>Ei. Fala português? <a href="../" title="Versão em português">Clique aqui</a>.</small></div>
