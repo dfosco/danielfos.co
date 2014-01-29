@@ -31,14 +31,29 @@ Currently working at the tech consulting startup [Hub9](https://www.facebook.com
 
 Previously, manager for QA and content distribution at the <span class="nowrap">e-book</span> aggregator [Xeriph](http://www.xeriph.com.br "Xeriph Homepage").
 
-##Projects
+##Selected Portfolio
 
 ---
 
-<div class="button-desktop"><a class="btnn-2c btnn-2 btnn spaace" href="http://framevvork.com" title="Blog Framevvork" target="_blank">frame<wbr/>vvork</a></div>
+<p class="port"><a href="http://www.agenciarastro.com.br/clientes/cobra" alt="CobraBijouterias">Cobra Bijouterias</a> Content management and production.</p>
+
+<p class="port"><a href="http://www.cobracnc.com.br" alt="CobraCNC">CobraCNC</a> Content management and production, webdesign, digital marketing.</p>
+
+<p class="port"><a href="http://sacavalcante.com.br/sitenovo/" alt="Homepage Sá Cavalcante">Sá Cavalcante</a> Content management and production, webdesign.</p>
+
+<p><a href="http://www.linkedin.com/in/danielfosco/en" alt="LinkedIn Daniel Fosco">Other projects</a></p>
 
 
-##Contact
+##Personal Projects
+
+---
+
+<p class="port"><a href="http://www.framevvork.com" title="Framevvork">Framevvork</a> A list of nice things on the web.</p>
+
+<p class="port"><a href="http://danielfos.co/en/livro" title="LIVRO">LIVRO</a> Research on the past and future of book technologies.</p>
+
+
+##Say hi
 ---
 <div class="icon"><a href="mailto:danielfosco@gmail.com" target="_blank"><span class="screen-reader-text">Email</span><i class="fa fa-envelope-o fa-2x"> </i></a></div>
 <div class="icon"><a href="https://www.twitter.com/notdanielfosco" target="_blank"><span class="screen-reader-text">Twitter</span><i class="fa fa-twitter fa-2x"> </i></a></div>  
@@ -46,4 +61,4 @@ Previously, manager for QA and content distribution at the <span class="nowrap">
 <div class="icon"><a href="https://br.linkedin.com/in/danielfosco/en" target="_blank"><span class="screen-reader-text">Linkedin</span><i class="fa fa-linkedin fa-2x"> </i></a></div>
 
 
-<div class="text-center" id="translate"><small>Ei! Quer o site em português? <a href="http://danielfos.co" title="Versão em português">Clique aqui</a>.</small></div>
+<div class="text-center" id="translate"><small>Ei. Fala português? <a href="http://danielfos.co" title="Versão em português">Clique aqui</a>.</small></div>

@@ -34,18 +34,34 @@ Antes disso, foi gerente de distribuição e controle de qualidade na agregadora
 
 
 
-##Projetos
+##Portfólio Selecionado
 
 ---
 
-<div class="button-desktop"><a class="btnn-2c btnn-2 btnn" href="http://framevvork.com">frame<wbr/>vvork</a></div>
+<p class="port"><a href="http://www.agenciarastro.com.br/clientes/cobra" alt="CobraBijouterias">Cobra Bijouterias</a> Produção e formatação de conteúdo.</p>
+
+<p class="port"><a href="http://www.cobracnc.com.br" alt="CobraCNC">CobraCNC</a> Produção e formatação de conteúdo, webdesign, marketing digital.</p>
+
+<p class="port"><a href="http://sacavalcante.com.br/sitenovo/" alt=" Homepage Sá Cavalcante">Sá Cavalcante</a> Produção e formatação de conteúdo, webdesign.</p>
+
+<p><a href="http://www.linkedin.com/in/danielfosco" alt="LinkedIn Daniel Fosco">Outros projetos</a></p>
 
 
-##Contato
+##Projetos Pessoais
+
+---
+
+<p class="port"><a href="http://www.framevvork.com" title="Framevvork">Framevvork</a> Uma lista de coisas legais na web.</p>
+
+<p class="port"><a href="http://danielfos.co/livro" title="LIVRO">LIVRO</a> Pesquisa sobre o passado e o futuro das tecnologias do livro.</p>
+
+
+##Diga Olá
+
 ---
 <div class="icon"><a href="mailto:danielfosco@gmail.com"><span class="screen-reader-text">Email</span><i class="fa fa-envelope-o fa-2x"> </i></a></div>
 <div class="icon"><a href="https://www.twitter.com/notdanielfosco"><span class="screen-reader-text">Twitter</span><i class="fa fa-twitter fa-2x"> </i></a></div>
 <div class="icon"><a href="https://www.github.com/dfosco"><span class="screen-reader-text">Github</span><i class="fa fa-github-alt fa-2x"> </i></a></div>
 <div class="icon"><a href="https://br.linkedin.com/in/danielfosco"><span class="screen-reader-text">Linkedin</span><i class="fa fa-linkedin fa-2x"> </i></a></div>
 
-<div class="text-center" id="translate"><small>Psst. Want the english version? <a href="http://danielfos.co/en" title="English Version">Here it is</a>.</small></div>
+<div class="text-center" id="translate"><small>Psst. Want an english version? <a href="http://danielfos.co/en" title="English Version">Here it is</a>.</small></div>

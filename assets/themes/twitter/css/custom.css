@@ -4,8 +4,8 @@ body {
   background: #333333;
   color: #E9E9EB;
   font-family: 'Vollkorn', 'Times';
-  font-size: 24px;
-  line-height: 33px;
+  font-size: 21px;
+  line-height: 30px;
 }
 
 ::selection {
@@ -26,7 +26,7 @@ h1 {
   -khtml-user-select: none;
   -moz-user-select: none;
   -o-user-select: none;
-  user-select: none; 
+  user-select: none;  
 }
 
 h2 {
@@ -37,7 +37,8 @@ h2 {
   font-weight: normal;
   color: #E9E9EB;
   text-align: center;
-  margin: 45px 0 5px 0  
+  margin: 45px 0 5px 0;
+  letter-spacing: 0.02em;
 }
 
 hr {
@@ -63,26 +64,28 @@ a {
   color: #CD544E;
 }
 
-a.xeriph {
-  color: #3998C8;
-}
-
-a.xeriph:hover{
-  text-decoration: none;
-  color: #3EA4D8;
- /* color: #CC514E; */
-}
-
 a:hover{
   text-decoration: none;
   color: #d97e7c;
- /* color: #CC514E; */
 }
 
-ul,ol {
+ul {
   padding:0;margin:0 0 10px 0;
 
-  /* line-height: 31px; */
+}
+
+ul a {
+  color: #BB9A4B;
+}
+
+ul a:hover {
+  text-decoration: none;
+  color: #CAAD6A;
+}
+
+ol {
+  padding:0;margin:0 0 30px 0;
+  list-style-type:none;
 }
 
 ul li {
@@ -107,13 +110,17 @@ ul li:last-child {
   padding-bottom: 0px;
 }
 
+p.port {
+ margin-bottom: 25px;
+}
+
 /* CUSTOM CLASSES */
 
 /*General*/
 
 .row-fluid {
    margin: 0 auto; 
-   width: 80%; 
+   width: 62%; 
 }
 
 .screen-reader-text { /* Reusable, toolbox kind of class */
@@ -249,8 +256,9 @@ top: 2px;
   color: #333333;
 }
 
-
+/*-------------------------------------------------*/
 /*MEDIA QUERIES*/
+/*-------------------------------------------------*/
 
 /* Landscape phones and down */
 @media (max-width: 480px) { 
@@ -259,6 +267,13 @@ top: 2px;
     width: 92%;
   }
 
+.port a {
+    display:inline;
+}
+.port a:after {
+    content:"\a";
+    white-space: pre;
+}
 
 h1 {
  line-height: 105px;
@@ -329,6 +344,13 @@ h1 {
   margin: 0 0 5px 0;
 } 
 
+.port a {
+    display:inline;
+}
+.port a:after {
+    content:" —";
+}
+
 
  }
 
@@ -344,6 +366,13 @@ body {
   line-height: 30px;
 }
 
+.port a {
+    display:inline;
+}
+.port a:after {
+    content:" —";
+}
+
 
 
 
@@ -357,9 +386,33 @@ body {
   width: 57%;
 }
 
+.port a {
+    display:inline;
+}
+.port a:after {
+    content:" —";
+}
+
  }
  
 /* Default: 940px and up  */
  
-/* Large desktop 
-@media (min-width: 1210px) { ... } */
+@media (min-width: 1210px) {
+
+ .port a {
+    display:inline;
+}
+.port a:after {
+    content:" —";
+}
+
+/* Large desktop  */
+@media (min-width: 1210px) { 
+
+ .port a {
+    display:inline;
+}
+.port a:after {
+    content:" —"; } 
+
+
