@@ -35,7 +35,7 @@ Previously, manager for QA and content distribution at the <span class="nowrap">
 
 ---
 
-<p class="port"><a href="http://www.agenciarastro.com.br/clientes/cobra" alt="CobraBijouterias">Cobra Bijouterias</a> Content production.</p>
+<p class="port"><a href="http://www.cobrabijouterias.com.br" alt="CobraBijouterias">Cobra Bijouterias</a> Content production.</p>
 
 <p class="port"><a href="http://www.cobracnc.com.br" alt="CobraCNC">CobraCNC</a> Content strategy and production, webdesign, digital marketing.</p>
 
