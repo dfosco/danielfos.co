@@ -128,7 +128,7 @@ p.port {
 
 .row-fluid {
    margin: 0 auto; 
-   width: 80%; 
+   width: 73%; 
 }
 
 .screen-reader-text { /* Reusable, toolbox kind of class */
@@ -316,15 +316,9 @@ body {
 
  }
  
-/* Portrait tablet to landscape and desktop */
-@media (min-width: 768px) and (max-width: 940px) { 
-
-.row-fluid {
-  margin: 0 auto;
-  width: 57%;
-}
-
- }
+/* Portrait tablet to landscape and desktop 
+@media (min-width: 768px) and (max-width: 940px) { ... }
+ */
  
 /* Default: 940px and up  
  
