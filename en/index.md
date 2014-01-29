@@ -35,11 +35,11 @@ Previously, manager for QA and content distribution at the <span class="nowrap">
 
 ---
 
-<p class="port"><a href="http://www.agenciarastro.com.br/clientes/cobra" alt="CobraBijouterias">Cobra Bijouterias</a> Content management and production.</p>
+<p class="port"><a href="http://www.agenciarastro.com.br/clientes/cobra" alt="CobraBijouterias">Cobra Bijouterias</a> Content production.</p>
 
-<p class="port"><a href="http://www.cobracnc.com.br" alt="CobraCNC">CobraCNC</a> Content management and production, webdesign, digital marketing.</p>
+<p class="port"><a href="http://www.cobracnc.com.br" alt="CobraCNC">CobraCNC</a> Content strategy and production, webdesign, digital marketing.</p>
 
-<p class="port"><a href="http://sacavalcante.com.br/sitenovo/" alt="Homepage Sá Cavalcante">Sá Cavalcante</a> Content management and production, webdesign.</p>
+<p class="port"><a href="http://sacavalcante.com.br/sitenovo/" alt="Homepage Sá Cavalcante">Sá Cavalcante</a> Content strategy and production, webdesign.</p>
 
 <p><a href="http://www.linkedin.com/in/danielfosco/en" alt="LinkedIn Daniel Fosco">Other projects</a></p>
 
