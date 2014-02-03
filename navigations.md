@@ -73,7 +73,7 @@ Any product list only go as far as *100* titles, organized by "All-time Best Sel
 
 ![No longer browsing the iBook Store](http://i.imgur.com/7IEuTby.png)
 
-In the end, the only way to find *The Elements of User Experience* on the iBook Store was to use the search function. They offer a good selection of titles on UX — but there's absolutely no way to find it without actively searching for it. Combined with the lack of a recommendation engine, it's no wonder Amazon's ahead on the ebook game.
+In the end, the only way to find *The Elements of User Experience* on the iBook Store was to use the search function. They offer a good selection of titles on UX, but there's absolutely no way to find it without actively searching for it. Combined with the lack of a recommendation engine, it's no wonder Amazon's ahead on the ebook game.
 
 ![UX titles on iBook Store](http://i.imgur.com/TfXLmZC.png)
 
