@@ -397,7 +397,7 @@ body {
  }
  
 /* Portrait tablet to landscape and desktop */
-@media (min-width: 768px) and (max-width: 940px) { 
+@media (min-width: 769px) and (max-width: 940px) { 
 
 .row-fluid {
   margin: 0 auto;
@@ -415,7 +415,7 @@ body {
  
 /* Default: 940px and up  */
  
-@media (min-width: 1210px) {
+@media (min-width: 940px) {
 
  .port a {
     display:inline;
@@ -424,13 +424,4 @@ body {
     content:" —";
 }
 
-/* Large desktop  */
-@media (min-width: 1210px) { 
-
- .port a {
-    display:inline;
 }
-.port a:after {
-    content:" —"; } 
-
-
