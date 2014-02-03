@@ -7,7 +7,7 @@ internal_css:
   - custom_internal.css
 ---
 
-<h2><span class="break comma">A quick redesign of a terrible shopping<wbr> experience</span>by Daniel Fosco</h2>
+<h2><span class="break comma">A quick redesign of a terrible shopping experience</span>by Daniel Fosco</h2>
 ---
 
 ###A Hate/Hate relationship
