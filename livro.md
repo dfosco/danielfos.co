@@ -4,7 +4,7 @@ title: LIVRO
 tagline: null
 published: true
 
-extra_css:
+codex_css:
   - codex.css
 
 alt_fav:

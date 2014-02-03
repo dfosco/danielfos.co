@@ -3,10 +3,13 @@ layout: page
 title: LIVRO
 tagline: null
 published: true
+
 extra_css: 
   - codex.css
+
 alt_fav: 
   - livro_favicon.ico
+
 ---
 
 {% include JB/setup %}

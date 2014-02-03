@@ -1,9 +1,10 @@
 /*-------------------------------------------------*/
-/* Custom Main Classes */
+/* body, h1, h2, h3, h4, h5, h6 */
 /*-------------------------------------------------*/
+
 body {
   background: #333333;
-  color: #E9E9EB;
+  color: #ddd;
   font-family: 'Vollkorn', 'Times';
   font-size: 24px;
   line-height: 34px;
@@ -40,6 +41,10 @@ h2 {
   text-align: center;
   margin: 45px 0 5px 0;
   letter-spacing: 0.02em;
+}
+
+h3 {
+  font-style: italic;
 }
 
 hr {

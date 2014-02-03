@@ -22,19 +22,23 @@
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
     <link href="{{ ASSET_PATH }}/css/custom.css?body=1" rel="stylesheet" type="text/css" media="all">
     <link href="{{ ASSET_PATH }}/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-   {% for codex in page.extra_css %}
+   
+   {% for css_name in page.codex_css %}
     <link href="{{ ASSET_PATH }}/css/codex.css?body=1" rel="stylesheet" type="text/css" media="all">
    {% endfor %}
-    <style type="text/css"> .icon {background:none;} </style>
 
+   {% for css_name in page.internal_css %}
+   <link href="{{ ASSET_PATH }}/css/custom_internal.css?body=1" rel="stylesheet" type="text/css" media="all">
+   {% endfor %}
 
-
+   <style type="text/css"> .icon {background:none;} </style>
 
 
   <!-- Le fav and touch icons -->
   <!-- Update these with your own images -->
     <link rel="shortcut icon" href="{{ ASSET_PATH }}/images/favicon.ico">
-   {% for livro_favicon in page.alt_fav %}
+
+   {% for ico_name in page.alt_fav %}
     <link rel="shortcut icon" href="{{ ASSET_PATH }}/images/livro_favicon.ico">
    {% endfor %}
   <!--  <link rel="apple-touch-icon" href="images/apple-touch-icon.png"> -->

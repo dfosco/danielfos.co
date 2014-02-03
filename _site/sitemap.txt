@@ -6,6 +6,7 @@ danielfos.co/en/index.html
 danielfos.co/en/livro.html
 danielfos.co/index.html
 danielfos.co/livro.html
+danielfos.co/navigations.html
 danielfos.co/pages.html
 danielfos.co/rss.xml
 danielfos.co/sitemap.txt
