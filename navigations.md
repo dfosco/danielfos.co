@@ -79,4 +79,4 @@ In the end, the only way to find *The Elements of User Experience* on the iBook 
 
 ![UX titles on iBook Store](http://i.imgur.com/TfXLmZC.png)
 
-
+~ February 2014

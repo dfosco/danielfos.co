@@ -2,6 +2,14 @@
 /* body, h1, h2, h3, h4, h5, h6 */
 /*-------------------------------------------------*/
 
+
+h1 {
+ line-height: 112px;
+ margin: -15px 0;
+
+}
+
+
 h2 {
   text-align: center;
 }
@@ -48,12 +56,29 @@ img {
 }
 
 /*-------------------------------------------------*/
-/* Layout */
+/* Layout/Custom */
 /*-------------------------------------------------*/
 
 .row-fluid {
    margin: 0 auto; 
    width: 95%; 
+}
+
+* .footnotes {
+
+  font-size: 18px;
+  line-height: 25px;
+
+}
+
+.footnotes p {
+
+  margin-bottom: 15px;
+}
+
+.strike {
+  text-decoration: line-through;
+  color: #7C7C7C;
 }
 
 /*-------------------------------------------------*/
@@ -76,11 +101,12 @@ img {
 }
 
 h1 {
- line-height: 56px;
+ line-height: 52px;
  text-align: center;
  margin: -16px 0 0 0;
  padding-bottom: 0px;
- font-size: 42px;
+ font-size: 37px;
+ font-weight: 400
 }
 
 h2 {
@@ -118,7 +144,7 @@ ul li:first-child {
 
 ul li:last-child {
   margin-bottom: 15px;
-  text-decoration: line-through;
+  text-decoration: none;
 }
 
 ul,ol {
@@ -163,6 +189,11 @@ body {
  content:", ";
 }
 
+h1 {
+
+  font-size: 72px;
+  line-height: 100px;
+}
 
 body {
   font-size: 21px;
