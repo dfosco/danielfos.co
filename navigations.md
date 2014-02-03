@@ -71,7 +71,7 @@ The catalogue at its iBook Store is an assortment of single-level category pages
 They do offer curated sub-categories, like the one above on Design, but there's no way to see a full list the titles within. 
 
 
-Any product list inside only go as far as 100* titles, organized by "All-time Best Sellers" or Alphabetic order. Funniest thing? When organized A-Z, the list ends at the letter "A".
+Any product list inside only go as far as *100* titles, organized by "All-time Best Sellers" or Alphabetic order. Funniest thing? When organized A-Z, the list ends at the letter "A".
 
 ![No longer browsing the iBook Store](http://i.imgur.com/7IEuTby.png)
 
