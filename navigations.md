@@ -3,10 +3,8 @@ layout: page
 title: Navigations
 tagline: null
 published: true
-
-internal_css:
+internal_css: 
   - custom_internal.css
-
 ---
 
 <h2><span class="break comma">A brief report on website navigation systems</span>by Daniel Fosco</h2>
@@ -68,10 +66,10 @@ The catalogue at its iBook Store is an assortment of single-level category pages
 
 ![Browsing the iBook Store](http://i.imgur.com/mKDrolR.jpg)
 
-They do offer curated sub-categories, like the one above on Design, but there's no way to see a full list the titles within. 
+They do offer curated sub-categories, like the one above on Design, but there's no way to see a full list of the titles inside. 
 
 
-Any product list inside only go as far as *100* titles, organized by "All-time Best Sellers" or Alphabetic order. Funniest thing? When organized A-Z, the list caps at the letter "A".
+Any product list only go as far as *100* titles, organized by "All-time Best Sellers" or alphabetic order — which, When organized A-Z, caps the list at the letter "A". I'm not even joking.
 
 ![No longer browsing the iBook Store](http://i.imgur.com/7IEuTby.png)
 
