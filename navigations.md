@@ -51,7 +51,7 @@ A few categories and 3 pages later... *voilà*
 
 ![The Elements of User Experience](http://i.imgur.com/DoUrq8d.png)
 
-It's not a pretty experience, but it works, and complemented by Amazons' search and recommendation engines that help unearth the most relevant products you might need.
+It's not a pretty experience, but it works, and it's complemented by Amazons' search and recommendation engines that help unearth the most relevant products you might need.
 
 The most important takeaway is that Amazon is not afraid of showing you as much information as possible and then coming up with ways to improve the navigation. With a storefront of that size, it's hard to see how they could use any other strategy.
 
