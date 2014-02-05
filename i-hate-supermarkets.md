@@ -3,10 +3,8 @@ layout: page
 title: I Hate Supermarkets
 tagline: null
 published: true
-
-internal_css:
+internal_css: 
   - custom_internal.css
-
 ---
 
 <h2><span class="break comma">A quick redesign of a terrible shopping experience</span>by Daniel Fosco</h2>
@@ -14,9 +12,9 @@ internal_css:
 
 ###A Hate/Hate relationship
 
-I hate supermarkets. I really do. In their current state, they're a prime example of lost opportunities for innovation and, most importantly, of time waste for both customers and companies.
+I hate supermarkets. In their current state, they're a prime example of lost opportunities for innovation and, most importantly, of time waste for both customers and companies.
 
-They're ineficcient — and that's not even comparing with online grocery shopping, better, but another wasteland of good opportunities[^1].
+They're ineficcient — and that's not even comparing them with online grocery shopping, which is better, but yet another wasteland of good opportunities[^1].
 
 Let's review the steps necessary to successfully buy groceries, once you're at the supermarket:
   
@@ -92,4 +90,3 @@ Still, I hope it contributes to further drive the discussion on the future of ph
 [^3]: 3) Icon Credits: Shopping Cart by Ulrich Pohl from The Noun Project; Person by Alex Fuller from The Noun Project; Michochip by Thomas Uebe from The Noun Project
 
 [^4]: 4) Icon Credits: Box by Nono Martínez Alonso from The Noun Project; : Shopping Cart by Ulrich Pohl from The Noun Project
-

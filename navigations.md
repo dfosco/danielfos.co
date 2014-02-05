@@ -3,10 +3,8 @@ layout: page
 title: Navigations
 tagline: null
 published: true
-
-internal_css:
+internal_css: 
   - custom_internal.css
-
 ---
 
 <h2><span class="break comma">A brief report on website navigation systems</span>by Daniel Fosco</h2>
@@ -53,7 +51,7 @@ A few categories and 3 pages later... *voilà*
 
 ![The Elements of User Experience](http://i.imgur.com/DoUrq8d.png)
 
-It's not a pretty experience, but it works, and complemented by Amazons' search and recommendation engines that help unearth the most relevant products you might need.
+It's not a pretty experience, but it works, and it's complemented by Amazons' search and recommendation engines that help unearth the most relevant products you might need.
 
 The most important takeaway is that Amazon is not afraid of showing you as much information as possible and then coming up with ways to improve the navigation. With a storefront of that size, it's hard to see how they could use any other strategy.
 
@@ -68,14 +66,14 @@ The catalogue at its iBook Store is an assortment of single-level category pages
 
 ![Browsing the iBook Store](http://i.imgur.com/mKDrolR.jpg)
 
-They do offer curated sub-categories, like the one above on Design, but there's no way to see a full list the titles within. 
+They do offer curated sub-categories, like the one above on Design, but there's no way to see a full list of the titles inside. 
 
 
-Any product list inside only go as far as *100* titles, organized by "All-time Best Sellers" or Alphabetic order. Funniest thing? When organized A-Z, the list caps at the letter "A".
+Any product list only go as far as *100* titles, organized by "All-time Best Sellers" or alphabetic order — which, When organized A-Z, caps the list at the letter "A". I'm not even joking.
 
 ![No longer browsing the iBook Store](http://i.imgur.com/7IEuTby.png)
 
-In the end, the only way to find *The Elements of User Experience* on the iBook Store was to use the search function. They offer a good selection of titles on UX — but there's absolutely no way to find it without actively searching for it. Combined with the lack of a recommendation engine, it's no wonder Amazon's ahead on the ebook game.
+In the end, the only way to find *The Elements of User Experience* on the iBook Store was to use the search function. They offer a good selection of titles on UX, but there's absolutely no way to find it without actively searching for it. Combined with the lack of a recommendation engine, it's no wonder Amazon's ahead on the ebook game.
 
 ![UX titles on iBook Store](http://i.imgur.com/TfXLmZC.png)
 
