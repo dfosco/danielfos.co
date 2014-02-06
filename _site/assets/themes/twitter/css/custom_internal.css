@@ -18,25 +18,13 @@ h3 {
   font-family: 'Lato', sans-serif;
   font-weight: 100;
   font-style: normal;
-  color: #BD9A46;
+  color: #CD544E;
   margin: 35px 0 10px 0;
 }
 
 /*-------------------------------------------------*/
 /* hr, ul, ol, img, others
 /*-------------------------------------------------*/
-
-.row-fluid hr {
-  margin:-5px 0 20px 0;
-  border:0;
-  border-top:1px solid #222;
-  border-bottom:1px solid #555;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -o-user-select: none;
-  user-select: none; 
-}
 
 ul li {
   text-align: left;
