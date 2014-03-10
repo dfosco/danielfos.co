@@ -51,8 +51,6 @@ Antes disso, foi gerente de distribuição e controle de qualidade na agregadora
 
 ---
 
-<p class="port"><a href="http://www.framevvork.com" title="Framevvork">Framevvork</a> Uma lista de coisas legais na web.</p>
-
 <p class="port"><a href="/livro" title="LIVRO">LIVRO</a> Uma exploração tecnológica da leitura.</p>
 
 ##Diga Olá
