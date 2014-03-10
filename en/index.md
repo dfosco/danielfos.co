@@ -48,8 +48,6 @@ Previously, manager for QA and content distribution at the <span class="nowrap">
 
 ---
 
-<p class="port"><a href="http://www.framevvork.com" title="Framevvork">Framevvork</a> A list of nice things on the web.</p>
-
 <p class="port"><a href="/en/livro" title="LIVRO">LIVRO</a> A technological exploration of reading.</p>
 
 
