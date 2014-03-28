@@ -23,8 +23,10 @@ Esta é uma obra em andamento, ainda em processo de edição. Caso esteja intere
 
 ---
 
-[Download EPUB](http://cl.ly/UhXv)  
-[Download MOBI](http://cl.ly/UhPg)  
+[Download EPUB](http://cl.ly/UhXv)
+
+[Download MOBI](http://cl.ly/UhPg)
+
 [Download PDF](http://cl.ly/UY5V)
 
 
