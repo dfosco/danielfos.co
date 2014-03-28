@@ -19,15 +19,14 @@ Este trabalho traz uma pesquisa histórica a respeito das tecnologias do livro e
 
 Foi apresentado como projeto de conclusão no curso de Produção Editorial da UFRJ em Dezembro de 2013.
 
-Esta é uma obra em andamento, ainda em processo de edição. Caso esteja interessado em acompanhar ou contribuir com o andamento do projeto, basta entrar no repositório do [Github](https://github.com/dfosco/LIVRO). Para ser notificado sobre novas versões, basta se inscrever [aqui](http://eepurl.com/NisaH "Notification Sign-up").
+Esta é uma obra em andamento, ainda em processo de edição. Caso esteja interessado em acompanhar ou contribuir com o andamento do projeto, basta entrar no repositório do [Github](https://github.com/dfosco/LIVRO). 
+
+Para ser notificado por email sobre o lançamento de novas edições, basta se inscrever [aqui](http://eepurl.com/NisaH "Notification Sign-up").
 
 ---
+##Download
 
-[Download EPUB](http://cl.ly/UhXv)
-
-[Download MOBI](http://cl.ly/UhPg)
-
-[Download PDF](http://cl.ly/UY5V)
+[EPUB](http://cl.ly/UhXv) • [MOBI](http://cl.ly/UhPg) • [PDF](http://cl.ly/UY5V)
 
 
 [&#8617; Voltar](../ "Back")
