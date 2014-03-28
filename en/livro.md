@@ -19,8 +19,13 @@ This work brings forward a historical research around the technologies of the bo
 
 It was presented as a graduation project in the Communications - Publishing major at Universidade Federal do Rio de Janeiro in December 2013.
 
-Currently, it is not available in english, but it will be soon. If you want to be notified when the english version becomes available on this site, just sign up [here](http://eepurl.com/Nir1v "Notification Sign-up").
+Currently, it is not available in english. If you want to be notified when it comes up, just sign up [here](http://eepurl.com/Nir1v "Notification Sign-up").
 
-The full text in brazilian portuguese can be <a href="http://cl.ly/UY5V" target="_blank" alt="Monografia Daniel Fosco" title="PDF XEXELENTO">downloaded here</a>.
+The full text in portuguese can be downloaded below.
+
+[EPUB](http://cl.ly/UhXv) • [MOBI](http://cl.ly/UhPg) • [PDF](http://cl.ly/UY5V)
+---
+
+---
 
 [&#8617; Back](/en/index.html "Back")
