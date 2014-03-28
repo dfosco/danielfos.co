@@ -22,6 +22,7 @@ O projeto ainda se encontra em processo de edição. Caso esteja interessado em 
 Para ser notificado por email sobre o lançamento de novas edições, basta se inscrever [aqui](http://eepurl.com/NisaH "Notification Sign-up").
 
 
+**Download**
 [EPUB](http://cl.ly/UhXv) • [MOBI](http://cl.ly/UhPg) • [PDF](http://cl.ly/UY5V)
 ---
 
