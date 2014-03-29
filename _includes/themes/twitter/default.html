@@ -57,6 +57,9 @@
     <meta content="{{ page.og-site_name }}" property="og:site_name"/>
     <meta content="{{ page.og-description }}" property="og:description"/>
     <meta content="{{ page.og-url }}" property="og:url">
+        
+    <!-- Google Analytics -->
+    {% include JB/analytics-providers/google %}
 
   </head>
 
@@ -88,6 +91,5 @@
 
     </div>
 
-    {% include JB/analytics-providers/google %}
   </body>
 </html>
