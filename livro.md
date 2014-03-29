@@ -9,7 +9,7 @@ alt_fav:
   - livro_favicon.ico
 
 og-title: LIVRO
-og-image: http://www.danielfos.co/images/livro_facebook_og.png
+og-image: http://i.imgur.com/zyDXLi2.png
 og-site_name: Daniel Fosco
 og-description: Uma pesquisa histórica a respeito das tecnologias do livro e suas implicações para os leitores e suas sociedades — do surgimento da escrita ao desenvolvimento da leitura digital.
 ---
