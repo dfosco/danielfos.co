@@ -3,7 +3,7 @@ layout: page
 title: LIVRO
 tagline: null
 published: true
-extra_css: 
+codex_css: 
   - codex.css
 alt_fav: 
   - livro_favicon.ico
@@ -19,7 +19,7 @@ This work brings forward a historical research around the technologies of the bo
 
 It was presented as a graduation project in the Communications - Publishing major at Universidade Federal do Rio de Janeiro in December 2013.
 
-Currently, it is not available in english. If you want to be notified when the english version becomes available on this site, just sign up [here](http://eepurl.com/Nir1v "Notification Sign-up").
+Currently, it is not available in english. If you want to be notified when it eventually comes up, just stick around, or sign up [here](http://eepurl.com/Nir1v "Notification Sign-up").
 
 The full text in portuguese can be downloaded below.
 
