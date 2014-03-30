@@ -1,15 +1,12 @@
 ---
 layout: post
 title: I Hate Supermarkets
-tagline: null
+tagline: A quick redesign of a terrible shopping experience
 published: true 
 
 internal_css: custom_internal.css
 ui-language: portuguese
 
----
-
-<h2><span class="break comma">A quick redesign of a terrible shopping experience</span>by Daniel Fosco</h2>
 ---
 
 ###A Hate/Hate relationship
