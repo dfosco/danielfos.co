@@ -2,10 +2,14 @@
 layout: post
 title: I Hate Supermarkets
 tagline: A quick redesign of a terrible shopping experience
-published: true 
+published: true
+ 
+author: Daniel Fosco
+tags: [ux, service design, jekyll]
+category: ensaios
 
 internal_css: custom_internal.css
-ui-language: portuguese
+language: portuguese
 
 ---
 
@@ -47,8 +51,9 @@ This is why it has to be done in *levels*.
 
 The solution is to have a supermarket inside a supermarket. A closed off section with a small sample of every product, properly tagged, that allows the customer to do an express checkout, similar to a monthly-pass on a highway toll. Of course, there's also a subscription price for all of this convenience.
 
-![Highway Supermarket  alt="Highway Supermarket"](http://i.imgur.com/oKbKq8y.png)
-<small>Highway Supermarket</small>[^3]
+![Highway Supermarket](http://i.imgur.com/oKbKq8y.png)
+<small>Highway Supermarket</small>
+
 ###The Bane of Shopping Carts
 
 ![Definitely cousins](http://i.imgur.com/fhCRUpO.png)
@@ -88,4 +93,4 @@ Still, I hope it contributes to further drive the discussion on the future of ph
 
 [^3]: 3) Icon Credits: Shopping Cart by Ulrich Pohl from The Noun Project; Person by Alex Fuller from The Noun Project; Michochip by Thomas Uebe from The Noun Project
 
-[^4]: 4) Icon Credits: Box by Nono Martínez Alonso from The Noun Project; : Shopping Cart by Ulrich Pohl from The Noun Project
+[^4]: 4) Icon Credits: Box by Nono Martínez Alonso from The Noun Project; Shopping Cart by Ulrich Pohl from The Noun Project

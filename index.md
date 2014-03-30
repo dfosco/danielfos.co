@@ -17,10 +17,11 @@ Não consegue sair da frente do computador.
 
 Na prática, faz:
 
- - Estratégia de Conteúdo
- - Web Design
- - Gambiarras
-
+<ul>
+    <li>Estratégia de Conteúdo</li>
+    <li>Web Design</li>
+    <li class="strike">Gambiarras</li>
+</ul>
 
 ##Onde
 

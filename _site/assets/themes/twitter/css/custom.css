@@ -1,5 +1,5 @@
 /*-------------------------------------------------*/
-/* body, h1, h2, h3, h4, h5, h6 */
+/* body, h1, h2, h3, h4, h5, h6, img */
 /*-------------------------------------------------*/
 
 body {
@@ -91,7 +91,17 @@ ul li:first-child {
 
 ul li:last-child {
   margin-bottom: 15px;
+}
+
+ul li.strike {
   text-decoration: line-through;
+}
+
+img {
+
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
 }
 
 .page-header {
@@ -199,6 +209,57 @@ footer a:hover {
 
 .pagination ul>li>a, .pagination ul>li>span {
   background-color: #242935;
+}
+
+/*Tag List*/
+
+.tag_box {
+
+  margin-bottom: -20px;
+}
+
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  background: none;
+  color: #CD544E;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px solid #cccccc;
+}
+
+.icon-folder-open, .icon-tags {
+  background-image:url("../bootstrap/img/glyphicons-halflings-white.png");
+  /*background-image:url("assets/themes/twitter/css/themes/twitter/bootstrap/img/glyphicons-halflings-white.png")*/
+}
+
+.tag_box.inline li {
+  margin: 10px 0px 15px -9px;
+  font-size: 18px;
+}
+
+.tag_box.inline li:first-child {
+  margin: 17px 5px 0px 0px;
+}
+
+.tag_box-last {
+  margin-bottom: 10px
+}
+ 
+/*Post Date*/
+
+.date .icon-tags {
+  background-position: -191px -121px;
+}
+
+.post-full .date {
+margin-bottom: -10px;
+}
+
+/*post-author (Custom Class)*/
+
+.post-author .icon-tags {
+  background-position: -168px 0px;
 }
 
 

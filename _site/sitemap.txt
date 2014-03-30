@@ -13,6 +13,6 @@ danielfos.co/rss.xml
 danielfos.co/sitemap.txt
 danielfos.co/tags.html
 
-danielfos.co/blog/eu-odeio-supermercados
+danielfos.co/blog/ensaios/eu-odeio-supermercados
 danielfos.co/blog/lessons/2013-12-25-test
 danielfos.co/blog/lessons/jekyll-introduction

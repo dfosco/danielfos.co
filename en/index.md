@@ -17,9 +17,11 @@ Can't seem to leave the computer, though.
 
 In practice, makes:
 
-  - Content Strategy
-  - Web Design
-  - Spaghetti code
+<ul>
+    <li>Content Strategy</li>
+    <li>Web Design</li>
+    <li class="strike">Spaghetti code</li>
+</ul>
 
 ##Where
 
