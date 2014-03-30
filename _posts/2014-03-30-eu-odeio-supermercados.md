@@ -2,7 +2,7 @@
 layout: post
 title: I Hate Supermarkets
 tagline: null
-published: true
+published: true 
 
 internal_css: custom_internal.css
 ui-language: portuguese

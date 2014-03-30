@@ -4,7 +4,7 @@
  <title>Daniel Fosco</title>
  <link href="danielfos.co/" rel="self"/>
  <link href="danielfos.co"/>
- <updated>2014-03-30T15:09:52-03:00</updated>
+ <updated>2014-03-30T15:21:37-03:00</updated>
  <id>danielfos.co</id>
  <author>
    <name>Daniel Fosco</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>I Hate Supermarkets</title>
-   <link href="danielfos.co/2014/03/30/eu-odeio-supermercados"/>
+   <link href="danielfos.co/blog/eu-odeio-supermercados"/>
    <updated>2014-03-30T00:00:00-03:00</updated>
-   <id>danielfos.co/2014/03/30/eu-odeio-supermercados</id>
+   <id>danielfos.co/blog/eu-odeio-supermercados</id>
    <content type="html">&lt;h2&gt;&lt;span class=&#39;break comma&#39;&gt;A quick redesign of a terrible shopping experience&lt;/span&gt;by Daniel Fosco&lt;/h2&gt;&lt;hr /&gt;
 &lt;h3 id=&quot;a_hatehate_relationship&quot;&gt;A Hate/Hate relationship&lt;/h3&gt;
 
@@ -114,9 +114,9 @@
  
  <entry>
    <title>2013 12 25 Test</title>
-   <link href="danielfos.co/lessons/2013/12/25/2013-12-25-test"/>
+   <link href="danielfos.co/blog/lessons/2013-12-25-test"/>
    <updated>2013-12-25T00:00:00-02:00</updated>
-   <id>danielfos.co/lessons/2013/12/25/2013-12-25-test</id>
+   <id>danielfos.co/blog/lessons/2013-12-25-test</id>
    <content type="html">&lt;h1 id=&quot;this_is_a_test&quot;&gt;This is a Test&lt;/h1&gt;
 
 &lt;h2 id=&quot;what_is_jekyll_no_idea&quot;&gt;What is Jekyll? No idea!!&lt;/h2&gt;
@@ -132,9 +132,9 @@
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="danielfos.co/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="danielfos.co/blog/lessons/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00-02:00</updated>
-   <id>danielfos.co/lessons/2011/12/29/jekyll-introduction</id>
+   <id>danielfos.co/blog/lessons/jekyll-introduction</id>
    <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
 &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
