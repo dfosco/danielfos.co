@@ -3,10 +3,10 @@ layout: post
 title: I Hate Supermarkets
 tagline: A quick redesign of a terrible shopping experience
 published: true
- 
+
 author: Daniel Fosco
-tags: [ux, service design, jekyll]
-category: ensaios
+tags: [ux, service design, retail]
+category: ensaio
 
 internal_css: custom_internal.css
 language: portuguese
