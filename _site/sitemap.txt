@@ -1,6 +1,7 @@
 
 danielfos.co/archive.html
 danielfos.co/atom.xml
+danielfos.co/blog/navigations.html
 danielfos.co/categories.html
 danielfos.co/en/index.html
 danielfos.co/en/livro.html
@@ -13,5 +14,6 @@ danielfos.co/rss.xml
 danielfos.co/sitemap.txt
 danielfos.co/tags.html
 
+danielfos.co/2014/03/30/eu-odeio-supermercados
 danielfos.co/lessons/2013/12/25/2013-12-25-test
 danielfos.co/lessons/2011/12/29/jekyll-introduction
