@@ -1,7 +1,6 @@
 
 danielfos.co/archive.html
 danielfos.co/atom.xml
-danielfos.co/blog/navigations.html
 danielfos.co/categories.html
 danielfos.co/en/index.html
 danielfos.co/en/livro.html

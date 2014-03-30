@@ -187,6 +187,22 @@ footer a:hover {
 }
 
 /*-------------------------------------------------*/
+/*BLOG INTERFACE CUSTOMIZATION*/
+/*-------------------------------------------------*/
+
+/*Navigation Buttons on the post footer*/
+
+.pagination{
+  margin: 20px 0;
+  text-align: center;
+}
+
+.pagination ul>li>a, .pagination ul>li>span {
+  background-color: #242935;
+}
+
+
+/*-------------------------------------------------*/
 /*CODROPS BUTTONS*/
 /*-------------------------------------------------*/
 
