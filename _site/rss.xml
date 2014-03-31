@@ -5,8 +5,8 @@
         <description>Daniel Fosco - Daniel Fosco</description>
         <link>danielfos.co</link>
         <link>danielfos.co</link>
-        <lastBuildDate>2014-03-31T20:36:03-03:00</lastBuildDate>
-        <pubDate>2014-03-31T20:36:03-03:00</pubDate>
+        <lastBuildDate>2014-03-31T20:46:25-03:00</lastBuildDate>
+        <pubDate>2014-03-31T20:46:25-03:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -102,342 +102,76 @@
         </item>
 
         <item>
-                <title>2013 12 25 Test</title>
-                <description>&lt;h1 id=&quot;this_is_a_test&quot;&gt;This is a Test&lt;/h1&gt;
+                <title>25 Anos da Web</title>
+                <description>&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/DiMDAJ3.jpg&quot; alt=&quot;Proposta inicial de Tim Berners-Lee para o CERN&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;what_is_jekyll_no_idea&quot;&gt;What is Jekyll? No idea!!&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Em parte, a World Wide Web é a primeira implementação prática de um sistema de hipertexto global tal como imaginado pelos pioneiros do hipertexto.&lt;/p&gt;
 
-&lt;p&gt;Perhaps… Jekyll is a parsing engine bundled as a ruby gem used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as “a simple, blog aware, static site generator”.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.w3.org/DesignIssues/TimBook-old/WhatIsWWW.html&quot;&gt;(Tim Berners-Lee, 1993/1994b)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;Thank you&lt;/strong&gt; for reading this far.&lt;/p&gt;
+&lt;p&gt;Desenvolvida a partir de 1989 por Tim Berners-Lee, à época pesquisador no CERN, a www foi até hoje o projeto de sistema de hipertexto mais bem-sucedido. De fato, a web foi tão universalmente adotada que se tornou, para um usuário leigo, sinônimo da própria Internet&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;next_steps&quot;&gt;Next Steps&lt;/h2&gt;
+&lt;p&gt;A web surgiu com o objetivo inicial de facilitar a colaboração remota entre pesquisadores do CERN, evitando perda de documentos, dados de experimentos e outras informações em meio à alta rotatividade de pesquisadores no instituto. Demonstrando uma visão precisa sobre o problema do excesso de informação, há muito destacado por Vannevar Bush, Berners-Lee afirmava na especificação inicial da www que o “CERN se depara hoje com problemas que o restante do mundo terá de enfrentar em breve” &lt;a href=&quot;http://www.w3.org/History/1989/proposal.html&quot;&gt;(Tim Berners-Lee, 1989)&lt;/a&gt;. Sua especificação inicial descrevia um sistema de organização de documentos hipertextual não-hierárquico, em rede (daí o termo “web”), que permitiria a inserção de qualquer tipo de conteúdo. Tal rede seria composta por nós — que poderiam ser notas, comentários, documentos, etc — conectados por &lt;em&gt;links&lt;/em&gt; &lt;a href=&quot;http://www.w3.org/History/1989/proposal.html&quot;&gt;(Tim Berners-Lee, 1989)&lt;/a&gt;. A arquitetura da web segue um modelo onde &lt;em&gt;browsers&lt;/em&gt; (navegadores) se conectam a &lt;em&gt;servers&lt;/em&gt; (servidores), onde uma ponta pode desconhecer o sistema operacional ou formato de dados da outra, pois são intermediados por uma interface HTTP, que traduz quaisquer diferenças de linguagem entre os dois. &lt;a href=&quot;http://www.freehep.org/chep92www.pdf&quot;&gt;(Tim Berners-Lee e Robert Caillau, 1992)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;</description>
-                <link>danielfos.co/blog/2013-12-25-test</link>
-                <guid>danielfos.co/blog/2013-12-25-test</guid>
-                <pubDate>2013-12-25T00:00:00-02:00</pubDate>
-        </item>
-
-        <item>
-                <title>Jekyll Introduction</title>
-                <description>&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
-
-&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
-
-&lt;h3 id=&quot;what_is_jekyll&quot;&gt;What is Jekyll?&lt;/h3&gt;
-
-&lt;p&gt;Jekyll is a parsing engine bundled as a ruby gem used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as “a simple, blog aware, static site generator”.&lt;/p&gt;
-
-&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
-
-&lt;p&gt;This website is created with Jekyll. &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Sites&quot;&gt;Other Jekyll websites&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;what_does_jekyll_do&quot;&gt;What does Jekyll Do?&lt;/h3&gt;
-
-&lt;p&gt;Jekyll is a ruby gem you install on your local system. Once there you can call &lt;code&gt;jekyll --server&lt;/code&gt; on a directory and provided that directory is setup in a way jekyll expects, it will do magic stuff like parse markdown/textile files, compute categories, tags, permalinks, and construct your pages from layout templates and partials.&lt;/p&gt;
-
-&lt;p&gt;Once parsed, Jekyll stores the result in a self-contained static &lt;code&gt;_site&lt;/code&gt; folder. The intention here is that you can serve all contents in this folder statically from a plain static web-server.&lt;/p&gt;
-
-&lt;p&gt;You can think of Jekyll as a normalish dynamic blog but rather than parsing content, templates, and tags on each request, Jekyll does this once &lt;em&gt;beforehand&lt;/em&gt; and caches the &lt;em&gt;entire website&lt;/em&gt; in a folder for serving statically.&lt;/p&gt;
-
-&lt;h3 id=&quot;jekyll_is_not_blogging_software&quot;&gt;Jekyll is Not Blogging Software&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Jekyll is a parsing engine.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Jekyll does not come with any content nor does it have any templates or design elements. This is a common source of confusion when getting started. Jekyll does not come with anything you actually use or see on your website - you have to make it.&lt;/p&gt;
-
-&lt;h3 id=&quot;why_should_i_care&quot;&gt;Why Should I Care?&lt;/h3&gt;
-
-&lt;p&gt;Jekyll is very minimalistic and very efficient. The most important thing to realize about Jekyll is that it creates a static representation of your website requiring only a static web-server. Traditional dynamic blogs like Wordpress require a database and server-side code. Heavily trafficked dynamic blogs must employ a caching layer that ultimately performs the same job Jekyll sets out to do; serve static content.&lt;/p&gt;
-
-&lt;p&gt;Therefore if you like to keep things simple and you prefer the command-line over an admin panel UI then give Jekyll a try.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Developers like Jekyll because we can write content like we write code:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O projeto inicial de Tim Berners-Lee inclui ainda algumas premissas básicas, postas como pré-requisitos diante das necessidades do CERN, mas que se provariam fundamentais para o desenvolvimento e sucesso do sistema &lt;a href=&quot;http://www.w3.org/History/1989/proposal.html&quot;&gt;(Tim Berners-Lee, 1989)&lt;/a&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Ability to write content in markdown or textile in your favorite text-editor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Descentralização do conteúdo&lt;/strong&gt;, permitindo que novos sistemas possam se conectar sem necessitar uma autoridade central;&lt;/li&gt;
 
-&lt;li&gt;Ability to write and preview your content via localhost.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Heterogeneidade&lt;/strong&gt;, permitindo que diversos sistemas operacionais possam acessar a web;&lt;/li&gt;
 
-&lt;li&gt;No internet connection required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Acesso à dados já existentes&lt;/strong&gt;, reinterpretando-os para um formato de hipertexto, o que impulsionaria a adoção da web;&lt;/li&gt;
 
-&lt;li&gt;Ability to publish via git.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Links “live”&lt;/strong&gt;, permitindo que documentos em hipertexto sejam linkados a informações atualizadas em tempo real;&lt;/li&gt;
 
-&lt;li&gt;Ability to host your blog on a static web-server.&lt;/li&gt;
-
-&lt;li&gt;Ability to host freely on GitHub Pages.&lt;/li&gt;
-
-&lt;li&gt;No database required.&lt;/li&gt;
+&lt;li&gt;E ainda &lt;strong&gt;“não requerimentos”&lt;/strong&gt;, onde Berners-Lee afirma que questões técnicas a respeito do suporte de copyright e proteção de dados, mesmo sendo viáveis, não seriam propostas naquele documento.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;how_jekyll_works&quot;&gt;How Jekyll Works&lt;/h1&gt;
+&lt;p&gt;Este último ponto reflete um posicionamento ideológico muito importante de Tim Berners-Lee. Em um artigo posterior&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, ele descreve a web como “um universo aberto de informação distribuída através de uma interface hipertextual &lt;a href=&quot;http://www.w3.org/DesignIssues/TimBook-old/WhatIsWWW.html&quot;&gt;(Tim Berners-Lee, 1993/1994b)&lt;/a&gt;. O aspecto aberto da web permitiu sua rápida difusão para além do meio acadêmico: por meio de “gateways”, a web permitia a conexão com sistemas já existentes; a facilidade de criar um servidor www, que não requeria registro central, possibilitou à rede um crescimento exponencial&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;; e a disponibilização de todo o código-fonte pelo CERN em licença livre (&lt;em&gt;open source&lt;/em&gt;) fez com que rapidamente, estudantes e programadores de diferentes partes do mundo criassem browsers de acesso à web para a maioria dos sistemas operacionais disponíveis à época &lt;a href=&quot;http://www.w3.org/DesignIssues/TimBook-old/History.html&quot;&gt;(Tim Berners-Lee, 1993/1994a)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The following is a complete but concise outline of exactly how Jekyll works.&lt;/p&gt;
+&lt;p&gt;Tal difusão não foi apenas um empurrão para a adoção da web, mas crucial para sua sobrevivência como sistema: segundo Berners-Lee, a www não era tão amplamente adotada dentro do CERN, sendo portanto “pessoas interessadas na internet que providenciavam o feedback, estímulo, ideias, contribuições de código-fonte (…) as pessoas na internet construíram a web.” (Idem). Este movimento não foi acidental, já que, tendo pensado um sistema modular e descentralizado que permitia (mais que isto, requeria) amplas contribuições externas, Tim Berners-Lee esperava que a web “alcançasse muito cedo uma utilidade crítica” &lt;a href=&quot;http://www.w3.org/History/1989/proposal.html&quot;&gt;(Tim Berners-Lee, 1989)&lt;/a&gt;, de forma que a própria utilidade do sistema iria encorajar a participação de novos usuários.&lt;/p&gt;
 
-&lt;p&gt;Be aware that core concepts are introduced in rapid succession without code examples. This information is not intended to specifically teach you how to do anything, rather it is intended to give you the &lt;em&gt;full picture&lt;/em&gt; relative to what is going on in Jekyll-world.&lt;/p&gt;
+&lt;p&gt;Por mais que a atual ubiquidade da web seja prova auto-evidente do sucesso desta estratégia, à época, outros sistemas seguiam o caminho oposto. Em 1993, a Universidade de Minnesota anunciou que passaria a cobrar uma licença pelo uso comercial de seu protocolo de compartilhamento de documentos online Gopher &lt;a href=&quot;http://www.nic.funet.fi/pub/vms/networking/gopher/gopher-software-licensing-policy.ancient&quot;&gt;(1993)&lt;/a&gt;, concorrente da web, em um movimento que ajudou a impulsionar a adoção e desenvolvimento das tecnologias da www. Apenas sete anos depois o código-fonte do projeto Gopher foi liberado para uso comercial, mas então já era tarde e o lançamento gerou pouco interesse, pois o protocolo se encontrava em desuso &lt;a href=&quot;https://groups.google.com/forum/#!msg/comp.infosystems.gopher/4A-LS_A6qtA/nT89yWKzzsIJ&quot;&gt;(2000)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Learning these core concepts should help you avoid common frustrations and ultimately help you better understand the code examples contained throughout Jekyll-Bootstrap.&lt;/p&gt;
+&lt;p&gt;Similarmente, o sistema Xanadu, que nunca foi lançado, jamais teve seu código-fonte compartilhado, por ser marca registrada do Projeto Xanadu. Uma das invenções do projeto, uma estrutura de dados chamada enfilade, nunca teve sua especificação técnica publicada. Segundo Ted Nelson, líder do projeto original, o motivo para isto seria por que a invenção “ainda é uma &lt;em&gt;parada quente&lt;/em&gt;” — nosso itálico &lt;a href=&quot;http://www.wired.com/wired/archive/3.06/xanadu.html&quot;&gt;(Wired, 1995)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;initial_setup&quot;&gt;Initial Setup&lt;/h2&gt;
-
-&lt;p&gt;After &lt;a href=&quot;/index.html#start-now&quot;&gt;installing jekyll&lt;/a&gt; you’ll need to format your website directory in a way jekyll expects. Jekyll-bootstrap conveniently provides the base directory format.&lt;/p&gt;
-
-&lt;h3 id=&quot;the_jekyll_application_base_format&quot;&gt;The Jekyll Application Base Format&lt;/h3&gt;
-
-&lt;p&gt;Jekyll expects your website directory to be laid out like so:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;.
-|-- _config.yml
-|-- _includes
-|-- _layouts
-|   |-- default.html
-|   |-- post.html
-|-- _posts
-|   |-- 2011-10-25-open-source-is-good.markdown
-|   |-- 2011-04-26-hello-world.markdown
-|-- _site
-|-- index.html
-|-- assets
-    |-- css
-        |-- style.css
-    |-- javascripts&lt;/code&gt;&lt;/pre&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;_config.yml&lt;/strong&gt; Stores configuration data.&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;_includes&lt;/strong&gt; This folder is for partial views.&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;_layouts&lt;/strong&gt; This folder is for the main templates your content will be inserted into. You can have different layouts for different pages or page sections.&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;_posts&lt;/strong&gt; This folder contains your dynamic content/posts. the naming format is required to be &lt;code&gt;@YEAR-MONTH-DATE-title.MARKUP@&lt;/code&gt;.&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;_site&lt;/strong&gt; This is where the generated site will be placed once Jekyll is done transforming it.&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;assets&lt;/strong&gt; This folder is not part of the standard jekyll structure. The assets folder represents &lt;em&gt;any generic&lt;/em&gt; folder you happen to create in your root directory. Directories and files not properly formatted for jekyll will be left untouched for you to serve normally.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;(read more: &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Usage&quot;&gt;https://github.com/mojombo/jekyll/wiki/Usage&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h3 id=&quot;jekyll_configuration&quot;&gt;Jekyll Configuration&lt;/h3&gt;
-
-&lt;p&gt;Jekyll supports various configuration options that are fully outlined here: (&lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Configuration&quot;&gt;https://github.com/mojombo/jekyll/wiki/Configuration&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h2 id=&quot;content_in_jekyll&quot;&gt;Content in Jekyll&lt;/h2&gt;
-
-&lt;p&gt;Content in Jekyll is either a post or a page. These content “objects” get inserted into one or more templates to build the final output for its respective static-page.&lt;/p&gt;
-
-&lt;h3 id=&quot;posts_and_pages&quot;&gt;Posts and Pages&lt;/h3&gt;
-
-&lt;p&gt;Both posts and pages should be written in markdown, textile, or HTML and may also contain Liquid templating syntax. Both posts and pages can have meta-data assigned on a per-page basis such as title, url path, as well as arbitrary custom meta-data.&lt;/p&gt;
-
-&lt;h3 id=&quot;working_with_posts&quot;&gt;Working With Posts&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Creating a Post&lt;/strong&gt; Posts are created by properly formatting a file and placing it the &lt;code&gt;_posts&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt; A post must have a valid filename in the form &lt;code&gt;YEAR-MONTH-DATE-title.MARKUP&lt;/code&gt; and be placed in the &lt;code&gt;_posts&lt;/code&gt; directory. If the data format is invalid Jekyll will not recognize the file as a post. The date and title are automatically parsed from the filename of the post file. Additionally, each file must have &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;YAML Front-Matter&lt;/a&gt; prepended to its content. YAML Front-Matter is a valid YAML syntax specifying meta-data for the given file.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Order&lt;/strong&gt; Ordering is an important part of Jekyll but it is hard to specify a custom ordering strategy. Only reverse chronological and chronological ordering is supported in Jekyll.&lt;/p&gt;
-
-&lt;p&gt;Since the date is hard-coded into the filename format, to change the order, you must change the dates in the filenames.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tags&lt;/strong&gt; Posts can have tags associated with them as part of their meta-data. Tags may be placed on posts by providing them in the post’s YAML front matter. You have access to the post-specific tags in the templates. These tags also get added to the sitewide collection.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Categories&lt;/strong&gt; Posts may be categorized by providing one or more categories in the YAML front matter. Categories offer more significance over tags in that they can be reflected in the URL path to the given post. Note categories in Jekyll work in a specific way. If you define more than one category you are defining a category hierarchy “set”. Example:&lt;/p&gt;
+&lt;p&gt;O trabalho inicial de Tim-Berners Lee e diversos outros colaboradores criaram as tecnologias básicas da web, entre elas o HTML (Hypertext Markup Language), sintaxe para visualização hipertextual de conteúdo durante a navegação da web; o servidor HTTP (Hypertext Transfer Protocol), que rege a comunicação cliente-servidor na web; os primeiros browsers, que permitem comunicação com os servidores da web através de linhas de código ou interfaces gráficas; e as URLs (Uniform Resource Locator), protocolo de endereçamento universal que permite aos usuários da web acessarem recursos e documentos em diferentes sistemas. Este legado técnico foi adotado pelo W3C, World Wide Web Consortium, fundado em 1994 numa parceria entre CERN e DARPA&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;, sendo encabeçado pelo próprio Tim Berners-Lee &lt;a href=&quot;http://www.w3.org/Consortium/facts#history&quot;&gt;(W3C)&lt;/a&gt;. Com um corpo técnico hoje formado por cientistas e desenvolvedores de empresas e instituições acadêmicas de todo o mundo&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;, a W3C tem como missão levar adiante a Web respeitando os valores de abertura e acessibilidade que a acompanham desde sua incepção, desenvolvendo protocolos e diretrizes que garantam o crescimento unificado da Web no longo prazo &lt;a href=&quot;http://www.w3.org/Consortium/mission.html#principles&quot;&gt;(W3C)&lt;/a&gt;.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;pre&gt;&lt;code&gt;title :  Hello World
-categories : [lessons, beginner]&lt;/code&gt;&lt;/pre&gt;
-&lt;hr /&gt;
-&lt;p&gt;This defines the category hierarchy “lessons/beginner”. Note this is &lt;em&gt;one category&lt;/em&gt; node in Jekyll. You won’t find “lessons” and “beginner” as two separate categories unless you define them elsewhere as singular categories.&lt;/p&gt;
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
 
-&lt;h3 id=&quot;working_with_pages&quot;&gt;Working With Pages&lt;/h3&gt;
+&lt;p&gt;BERNERS-LEE, Tim. Information Management: A Proposal. Mar 1989. Disponível em &lt;a href=&quot;http://www.w3.org/History/1989/proposal.html&quot;&gt;http://www.w3.org/History/1989/proposal.html&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Creating a Page&lt;/strong&gt; Pages are created by properly formatting a file and placing it anywhere in the root directory or subdirectories that do &lt;em&gt;not&lt;/em&gt; start with an underscore.&lt;/p&gt;
+&lt;p&gt;BERNERS-LEE, Tim. A Brief History of the Web. 1993/1994a. Disponível em &lt;a href=&quot;http://www.w3.org/DesignIssues/TimBook-old/History.html&quot;&gt;http://www.w3.org/DesignIssues/TimBook-old/History.html&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt; In order to register as a Jekyll page the file must contain &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;YAML Front-Matter&lt;/a&gt;. Registering a page means 1) that Jekyll will process the page and 2) that the page object will be available in the &lt;code&gt;site.pages&lt;/code&gt; array for inclusion into your templates.&lt;/p&gt;
+&lt;p&gt;BERNERS-LEE, Tim. What is the World-Wide Web? 1993/1994b. Disponível em &lt;a href=&quot;http://www.w3.org/DesignIssues/TimBook-old/WhatIsWWW.html&quot;&gt;http://www.w3.org/DesignIssues/TimBook-old/WhatIsWWW.html&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Categories and Tags&lt;/strong&gt; Pages do not compute categories nor tags so defining them will have no effect.&lt;/p&gt;
+&lt;p&gt;BERNERS-LEE, Tim; CAILLAU, Robert. World-Wide Web. Set 1992. Disponível em &lt;a href=&quot;http://www.freehep.org/chep92www.pdf&quot;&gt;http://www.freehep.org/chep92www.pdf&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Sub-Directories&lt;/strong&gt; If pages are defined in sub-directories, the path to the page will be reflected in the url. Example:&lt;/p&gt;
+&lt;p&gt;WIRED Magazine; WOLF, Gary. The Curse of Xanadu. Jun 1995. Disponível em &lt;a href=&quot;http://www.wired.com/wired/archive/3.06/xanadu.html&quot;&gt;http://www.wired.com/wired/archive/3.06/xanadu.html&lt;/a&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;.
-|-- people
-    |-- bob
-        |-- essay.html&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;W3C a. Facts About W3C - History. Disponível em &lt;a href=&quot;http://www.w3.org/Consortium/facts#history&quot;&gt;http://www.w3.org/Consortium/facts#history&lt;/a&gt; 86&lt;/p&gt;
 
-&lt;p&gt;This page will be available at &lt;code&gt;http://yourdomain.com/people/bob/essay.html&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;W3C b. W3C Mission. Disponível em &lt;a href=&quot;http://www.w3.org/Consortium/mission.html#principles&quot;&gt;http://www.w3.org/Consortium/mission.html#principles&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Recommended Pages&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(1993) MINNESOTA GOPHER TEAM. University of Minnesota Gopher software licensing policy. 11 Mar 1993. Disponível em &lt;a href=&quot;http://www.nic.funet.fi/pub/vms/networking/gopher/gopher-software-licensing-policy.ancient&quot;&gt;http://www.nic.funet.fi/pub/vms/networking/gopher/gopher-software-licensing-policy.ancient&lt;/a&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;index.html&lt;/strong&gt; You will always want to define the root index.html page as this will display on your root URL.&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;404.html&lt;/strong&gt; Create a root 404.html page and GitHub Pages will serve it as your 404 response.&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;sitemap.html&lt;/strong&gt; Generating a sitemap is good practice for SEO.&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;about.html&lt;/strong&gt; A nice about page is easy to do and gives the human perspective to your website.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;templates_in_jekyll&quot;&gt;Templates in Jekyll&lt;/h2&gt;
-
-&lt;p&gt;Templates are used to contain a page’s or post’s content. All templates have access to a global site object variable: &lt;code&gt;site&lt;/code&gt; as well as a page object variable: &lt;code&gt;page&lt;/code&gt;. The site variable holds all accessible content and metadata relative to the site. The page variable holds accessible data for the given page or post being rendered at that point.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Create a Template&lt;/strong&gt; Templates are created by properly formatting a file and placing it in the &lt;code&gt;_layouts&lt;/code&gt; directory.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt; Templates should be coded in HTML and contain YAML Front Matter. All templates can contain Liquid code to work with your site’s data.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Rending Page/Post Content in a Template&lt;/strong&gt; There is a special variable in all templates named : &lt;code&gt;content&lt;/code&gt;. The &lt;code&gt;content&lt;/code&gt; variable holds the page/post content including any sub-template content previously defined. Render the content variable wherever you want your main content to be injected into your template:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;...
-&amp;lt;body&amp;gt;
-  &amp;lt;div id=&quot;sidebar&quot;&amp;gt; ... &amp;lt;/div&amp;gt;
-  &amp;lt;div id=&quot;main&quot;&amp;gt;
-    &amp;#123;{content}&amp;#125;
-  &amp;lt;/div&amp;gt;
-&amp;lt;/body&amp;gt;
-...&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&quot;subtemplates&quot;&gt;Sub-Templates&lt;/h3&gt;
-
-&lt;p&gt;Sub-templates are exactly templates with the only difference being they define another “root” layout/template within their YAML Front Matter. This essentially means a template will render inside of another template.&lt;/p&gt;
-
-&lt;h3 id=&quot;includes&quot;&gt;Includes&lt;/h3&gt;
-
-&lt;p&gt;In Jekyll you can define include files by placing them in the &lt;code&gt;_includes&lt;/code&gt; folder. Includes are NOT templates, rather they are just code snippets that get included into templates. In this way, you can treat the code inside includes as if it was native to the parent template.&lt;/p&gt;
-
-&lt;p&gt;Any valid template code may be used in includes.&lt;/p&gt;
-
-&lt;h2 id=&quot;using_liquid_for_templating&quot;&gt;Using Liquid for Templating&lt;/h2&gt;
-
-&lt;p&gt;Templating is perhaps the most confusing and frustrating part of Jekyll. This is mainly due to the fact that Jekyll templates must use the Liquid Templating Language.&lt;/p&gt;
-
-&lt;h3 id=&quot;what_is_liquid&quot;&gt;What is Liquid?&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/Shopify/liquid&quot;&gt;Liquid&lt;/a&gt; is a secure templating language developed by &lt;a href=&quot;http://shopify.com&quot;&gt;Shopify&lt;/a&gt;. Liquid is designed for end-users to be able to execute logic within template files without imposing any security risk on the hosting server.&lt;/p&gt;
-
-&lt;p&gt;Jekyll uses Liquid to generate the post content within the final page layout structure and as the primary interface for working with your site and post/page data.&lt;/p&gt;
-
-&lt;h3 id=&quot;why_do_we_have_to_use_liquid&quot;&gt;Why Do We Have to Use Liquid?&lt;/h3&gt;
-
-&lt;p&gt;GitHub uses Jekyll to power &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;. GitHub cannot afford to run arbitrary code on their servers so they lock developers down via Liquid.&lt;/p&gt;
-
-&lt;h3 id=&quot;liquid_is_not_programmerfriendly&quot;&gt;Liquid is Not Programmer-Friendly.&lt;/h3&gt;
-
-&lt;p&gt;The short story is liquid is not real code and its not intended to execute real code. The point being you can’t do jackshit in liquid that hasn’t been allowed explicitly by the implementation. What’s more you can only access data-structures that have been explicitly passed to the template.&lt;/p&gt;
-
-&lt;p&gt;In Jekyll’s case it is not possible to alter what is passed to Liquid without hacking the gem or running custom plugins. Both of which cannot be supported by GitHub Pages.&lt;/p&gt;
-
-&lt;p&gt;As a programmer - this is very frustrating.&lt;/p&gt;
-
-&lt;p&gt;But rather than look a gift horse in the mouth we are going to suck it up and view it as an opportunity to work around limitations and adopt client-side solutions when possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Aside&lt;/strong&gt; My personal stance is to not invest time trying to hack liquid. It’s really unnecessary &lt;em&gt;from a programmer’s&lt;/em&gt; perspective. That is to say if you have the ability to run custom plugins (i.e. run arbitrary ruby code) you are better off sticking with ruby. Toward that end I’ve built &lt;a href=&quot;http://github.com/plusjade/mustache-with-jekyll&quot;&gt;Mustache-with-Jekyll&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;static_assets&quot;&gt;Static Assets&lt;/h2&gt;
-
-&lt;p&gt;Static assets are any file in the root or non-underscored subfolders that are not pages. That is they have no valid YAML Front Matter and are thus not treated as Jekyll Pages.&lt;/p&gt;
-
-&lt;p&gt;Static assets should be used for images, css, and javascript files.&lt;/p&gt;
-
-&lt;h2 id=&quot;how_jekyll_parses_files&quot;&gt;How Jekyll Parses Files&lt;/h2&gt;
-
-&lt;p&gt;Remember Jekyll is a processing engine. There are two main types of parsing in Jekyll.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Content parsing.&lt;/strong&gt; This is done with textile or markdown.&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Template parsing.&lt;/strong&gt; This is done with the liquid templating language.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And thus there are two main types of file formats needed for this parsing.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Post and Page files.&lt;/strong&gt; All content in Jekyll is either a post or a page so valid posts and pages are parsed with markdown or textile.&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Template files.&lt;/strong&gt; These files go in &lt;code&gt;_layouts&lt;/code&gt; folder and contain your blogs &lt;strong&gt;templates&lt;/strong&gt;. They should be made in HTML with the help of Liquid syntax. Since include files are simply injected into templates they are essentially parsed as if they were native to the template.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Arbitrary files and folders.&lt;/strong&gt; Files that &lt;em&gt;are not&lt;/em&gt; valid pages are treated as static content and pass through Jekyll untouched and reside on your blog in the exact structure and format they originally existed in.&lt;/p&gt;
-
-&lt;h3 id=&quot;formatting_files_for_parsing&quot;&gt;Formatting Files for Parsing.&lt;/h3&gt;
-
-&lt;p&gt;We’ve outlined the need for valid formatting using &lt;strong&gt;YAML Front Matter&lt;/strong&gt;. Templates, posts, and pages all need to provide valid YAML Front Matter even if the Matter is empty. This is the only way Jekyll knows you want the file processed.&lt;/p&gt;
-
-&lt;p&gt;YAML Front Matter must be prepended to the top of template/post/page files:&lt;/p&gt;
-&lt;hr /&gt;
-&lt;pre&gt;&lt;code&gt;layout: post
-category : pages
-tags : [how-to, jekyll]&lt;/code&gt;&lt;/pre&gt;
-&lt;hr /&gt;
-&lt;pre&gt;&lt;code&gt;... contents ...&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Three hyphens on a new line start the Front-Matter block and three hyphens on a new line end the block. The data inside the block must be valid YAML.&lt;/p&gt;
-
-&lt;p&gt;Configuration parameters for YAML Front-Matter is outlined here: &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;A comprehensive explanation of YAML Front Matter&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;defining_layouts_for_posts_and_templates_parsing&quot;&gt;Defining Layouts for Posts and Templates Parsing.&lt;/h4&gt;
-
-&lt;p&gt;The &lt;code&gt;layout&lt;/code&gt; parameter in the YAML Front Matter defines the template file for which the given post or template should be injected into. If a template file specifies its own layout, it is effectively being used as a &lt;code&gt;sub-template.&lt;/code&gt; That is to say loading a post file into a template file that refers to another template file with work in the way you’d expect; as a nested sub-template.&lt;/p&gt;
-
-&lt;h2 id=&quot;how_jekyll_generates_the_final_static_files&quot;&gt;How Jekyll Generates the Final Static Files.&lt;/h2&gt;
-
-&lt;p&gt;Ultimately, Jekyll’s job is to generate a static representation of your website. The following is an outline of how that’s done:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Jekyll collects data.&lt;/strong&gt; Jekyll scans the posts directory and collects all posts files as post objects. It then scans the layout assets and collects those and finally scans other directories in search of pages.&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Jekyll computes data.&lt;/strong&gt; Jekyll takes these objects, computes metadata (permalinks, tags, categories, titles, dates) from them and constructs one big &lt;code&gt;site&lt;/code&gt; object that holds all the posts, pages, layouts, and respective metadata. At this stage your site is one big computed ruby object.&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Jekyll liquifies posts and templates.&lt;/strong&gt; Next jekyll loops through each post file and converts (through markdown or textile) and &lt;strong&gt;liquifies&lt;/strong&gt; the post inside of its respective layout(s). Once the post is parsed and liquified inside the the proper layout structure, the layout itself is “liquified”. &lt;strong&gt;Liquification&lt;/strong&gt; is defined as follows: Jekyll initiates a Liquid template, and passes a simpler hash representation of the ruby site object as well as a simpler hash representation of the ruby post object. These simplified data structures are what you have access to in the templates.&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Jekyll generates output.&lt;/strong&gt; Finally the liquid templates are “rendered”, thereby processing any liquid syntax provided in the templates and saving the final, static representation of the file.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Notes.&lt;/strong&gt; Because Jekyll computes the entire site in one fell swoop, each template is given access to a global &lt;code&gt;site&lt;/code&gt; hash that contains useful data. It is this data that you’ll iterate through and format using the Liquid tags and filters in order to render it onto a given page.&lt;/p&gt;
-
-&lt;p&gt;Remember, in Jekyll you are an end-user. Your API has only two components:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;The manner in which you setup your directory.&lt;/li&gt;
-
-&lt;li&gt;The liquid syntax and variables passed into the liquid templates.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;All the data objects available to you in the templates via Liquid are outlined in the &lt;strong&gt;API Section&lt;/strong&gt; of Jekyll-Bootstrap. You can also read the original documentation here: &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Template-Data&quot;&gt;https://github.com/mojombo/jekyll/wiki/Template-Data&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;I hope this paints a clearer picture of what Jekyll is doing and why it works the way it does. As noted, our main programming constraint is the fact that our API is limited to what is accessible via Liquid and Liquid only.&lt;/p&gt;
-
-&lt;p&gt;Jekyll-bootstrap is intended to provide helper methods and strategies aimed at making it more intuitive and easier to work with Jekyll =)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Thank you&lt;/strong&gt; for reading this far.&lt;/p&gt;
-
-&lt;h2 id=&quot;next_steps&quot;&gt;Next Steps&lt;/h2&gt;
-
-&lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;</description>
-                <link>danielfos.co/blog/jekyll-introduction</link>
-                <guid>danielfos.co/blog/jekyll-introduction</guid>
-                <pubDate>2011-12-29T00:00:00-02:00</pubDate>
+&lt;p&gt;(2000) KOSTECKE, Steve. “UMN Gopher(d) released under the GPL!”. comp.infosystems.gopher Google Group. 1 Set 2000. Disponível em &lt;a href=&quot;https://groups.google.com/forum/#!msg/comp.infosystems.gopher/4A- LS_A6qtA/nT89yWKzzsIJ&quot;&gt;https://groups.google.com/forum/#!msg/comp.infosystems.gopher/4A- LS_A6qtA/nT89yWKzzsIJ&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;&lt;hr /&gt;&lt;ol&gt;&lt;li id=&quot;fn:1&quot;&gt;
+&lt;p&gt;Para pautar a diferença, o termo Internet se refere à conexão internacional entre computadores através de cabos telefônicos/de fibra óptica ou via satélite que, utilizando diversos sistemas e protocolos como www, email, FTP e Usenet, constitui um “vasto conglomerado de redes de computadores interconectadas” &lt;a href=&quot;http://www.w3.org/DesignIssues/TimBook-old/History.html&quot;&gt;(Tim Berners-Lee, 1993/1994a)&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;li id=&quot;fn:2&quot;&gt;
+&lt;p&gt;Parte de uma série de artigos que Tim Berners-Lee pretendia publicar como um livro sobre o histórico e funcionamento da web, todos escritos entre 1993 e 1994. &lt;a href=&quot;#fnref:2&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;li id=&quot;fn:3&quot;&gt;
+&lt;p&gt;Tim Berners-Lee afirma que entre Julho de 1991 e Julho de 1994, a rede dobrava de tamanho a cada quatro meses — fator que pulava para 10x, se considerados os 12 meses anteriores. (1993/1994a, capítulo “Proliferation”). &lt;a href=&quot;#fnref:3&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;li id=&quot;fn:4&quot;&gt;
+&lt;p&gt;Defense Advanced Research Projects Agency, agência do governo norte-americano responsável por promover a pesquisa e desenvolvimento de novas tecnologias voltadas para aplicação militar. &lt;a href=&quot;#fnref:4&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;li id=&quot;fn:5&quot;&gt;
+&lt;p&gt;Uma lista completa das empresas e instituições participantes pode ser consultada em &lt;a href=&quot;http://www.w3.org/Consortium/Member/List&quot;&gt;http://www.w3.org/Consortium/Member/List&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description>
+                <link>danielfos.co/blog/25-anos-da-web</link>
+                <guid>danielfos.co/blog/25-anos-da-web</guid>
+                <pubDate>2014-03-16T00:00:00-03:00</pubDate>
         </item>
 
 
