@@ -4,7 +4,7 @@
  <title>Daniel Fosco</title>
  <link href="danielfos.co/" rel="self"/>
  <link href="danielfos.co"/>
- <updated>2014-03-30T17:59:22-03:00</updated>
+ <updated>2014-03-31T20:36:03-03:00</updated>
  <id>danielfos.co</id>
  <author>
    <name>Daniel Fosco</name>
@@ -13,99 +13,93 @@
 
  
  <entry>
-   <title>I Hate Supermarkets</title>
+   <title>Eu Odeio Supermercados</title>
    <link href="danielfos.co/blog/eu-odeio-supermercados"/>
    <updated>2014-03-30T00:00:00-03:00</updated>
    <id>danielfos.co/blog/eu-odeio-supermercados</id>
-   <content type="html">&lt;h3 id=&quot;a_hatehate_relationship&quot;&gt;A Hate/Hate relationship&lt;/h3&gt;
+   <content type="html">&lt;h3 id=&quot;uma_relao_de_dio_e_dio&quot;&gt;Uma relação de ódio e ódio&lt;/h3&gt;
 
-&lt;p&gt;I hate supermarkets. In their current state, they’re a prime example of lost opportunities for innovation and, most importantly, of time waste for both customers and companies.&lt;/p&gt;
+&lt;p&gt;Eu odeio supermercados. Da forma como são hoje, supermercados são uma gigantesca perda de tempo para clientes e para as empresas, além de uma ótima oportunidade de inovação desperdiçada.&lt;/p&gt;
 
-&lt;p&gt;They’re ineficcient — and that’s not even comparing them with online grocery shopping, which is better, but yet another wasteland of good opportunities&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Supermercados são ineficientes — ainda mais se comparados ao e-commerce, que, ainda que melhor, é também um mercado muito conversador em termos de modelo de negócios&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
-&lt;p&gt;Let’s review the steps necessary to successfully buy groceries, once you’re at the supermarket:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Get a shopping cart&lt;/li&gt;
-
-&lt;li&gt;Put stuff in shopping cart&lt;/li&gt;
-
-&lt;li&gt;Put stuff in the checkout tray&lt;/li&gt;
-
-&lt;li&gt;Put stuff in bags&lt;/li&gt;
-
-&lt;li&gt;Put bags in shopping cart&lt;/li&gt;
-
-&lt;li&gt;Put bags in your car&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Sounds too much? That’s because it is. And I’m not even talking about lines. But now we have the technology to do better.&lt;/p&gt;
-
-&lt;h3 id=&quot;express_checkout&quot;&gt;Express Checkout&lt;/h3&gt;
-
-&lt;p&gt;This process is downright unacceptable. You might as well travel back in time to the Middle Ages if you’re into this kind of dark stuff.&lt;/p&gt;
-
-&lt;p&gt;The answer for this contemporary dark age are RFID tags. They’re already on your public transport card and in the stuff the Supermarket &lt;em&gt;really&lt;/em&gt; doesn’t want you to steal, like DVDs and &lt;a href=&quot;http://www.theatlantic.com/business/archive/2012/03/why-are-criminals-stealing-tide-detergent-and-using-it-for-money/254631/&quot;&gt;Tide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Once you have them in your products, half of the problem is gone — grab the thing, go out the door. Charge my credit card later, thank you. For those that still don’t get it, watch this hip &lt;a href=&quot;http://www.youtube.com/watch?v=eob532iEpqk&quot;&gt;IBM concept video&lt;/a&gt;. It’s from 2006.&lt;/p&gt;
-
-&lt;p&gt;Over 10 years ago the RFID Journal was announcing &lt;a href=&quot;http://www.rfidjournal.com/articles/view?363&quot;&gt;1-cent tags&lt;/a&gt;. The price still haven’t dropped below 10 cents, which makes it too expensive to implement in large scale, and is the alleged reason supermarkets still keep us in the dark ages.&lt;/p&gt;
-
-&lt;p&gt;But you know what? They don’t have to implement it in large scale. If people want expensive infrastructure that makes their life better, just make them pay for it.&lt;/p&gt;
-
-&lt;h3 id=&quot;a_supermarket_within_a_supermarket&quot;&gt;A Supermarket within a Supermarket&lt;/h3&gt;
-
-&lt;p&gt;Certainly, the problem of widely implementing RFID tags in retail is affected by logistics, as much as it’s by cost. How do you allow people to leave the supermarket with a product that doesn’t have to go through the cashier? What if they pocket that candy bar that doesn’t have the damn tag&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;?&lt;/p&gt;
-
-&lt;p&gt;This is why it has to be done in &lt;em&gt;levels&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The solution is to have a supermarket inside a supermarket. A closed off section with a small sample of every product, properly tagged, that allows the customer to do an express checkout, similar to a monthly-pass on a highway toll. Of course, there’s also a subscription price for all of this convenience.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/oKbKq8y.png&quot; alt=&quot;Highway Supermarket&quot; /&gt; &lt;small&gt;Highway Supermarket&lt;/small&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;the_bane_of_shopping_carts&quot;&gt;The Bane of Shopping Carts&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/fhCRUpO.png&quot; alt=&quot;Definitely cousins&quot; /&gt; &lt;small&gt;Definitely cousins&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;So you’ve left the supermarket without taking any lines or having to move the products from the cart. You walk to your car. And then you realize you still need to bag the things you just bought. Ugh.&lt;/p&gt;
-
-&lt;p&gt;You’re part of the problem shopping cart. Time to become part of the solution.&lt;/p&gt;
-
-&lt;p&gt;The idea is for the cart to become a skeleton for a modular set of boxes, that are used to store products inside the market and in the way home.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/iskW4hI.png&quot; alt=&quot;Modular Shopping Cart alt=Modular Shopping Cart&quot; /&gt; &lt;small&gt;A modular, take-away shopping cart&lt;/small&gt;&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;When you return the next time, bring back the boxes. Or don’t — if you want to take 20 of them home you can, but your credit card will be charged.&lt;/p&gt;
-
-&lt;p&gt;Ideally, the “boxes” would be made out of a semi-hard silicon material that fits the format of the cart, but bend to double as bags on the way home.&lt;/p&gt;
-
-&lt;h3 id=&quot;now_were_talking&quot;&gt;Now we’re talking!&lt;/h3&gt;
+&lt;p&gt;Para destrinchar este sentimento de rejeição violenta, vejamos os passos necessários para fazer compras no mercado (uma vez que você já esteja lá):&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Get a shopping cart&lt;/li&gt;
+&lt;li&gt;Pegue um carrinho de compras&lt;/li&gt;
 
-&lt;li&gt;Put stuff in shopping cart&lt;/li&gt;
+&lt;li&gt;Coloque seus produtos no carrinho de compras&lt;/li&gt;
 
-&lt;li&gt;&lt;span class=&#39;strike&#39;&gt;Put stuff in the checkout tray&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Coloque seus produtos no caixa&lt;/li&gt;
 
-&lt;li&gt;&lt;span class=&#39;strike&#39;&gt;Put stuff in bags&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Coloque seus produtos em sacolas&lt;/li&gt;
 
-&lt;li&gt;&lt;span class=&#39;strike&#39;&gt;Put bags in shopping cart&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Coloque as sacolas no carrinho de compras&lt;/li&gt;
 
-&lt;li&gt;Put &lt;span class=&#39;strike&#39;&gt;bags&lt;/span&gt; high-tech boxes in your car&lt;/li&gt;
+&lt;li&gt;Coloque as sacolas em seu carro&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;This is just a sketch of what a different grocery shopping experience could become, and undoubtedly, people in the industry with decades of experience on the subject are working on solutions like this right now.&lt;/p&gt;
+&lt;p&gt;Parece muito? Por que é. E esta lista sequer considera filas no mercado ou trânsito no caminho. Mas não se desespere. Dá pra fazer melhor.&lt;/p&gt;
 
-&lt;p&gt;Still, I hope it contributes to further drive the discussion on the future of physical retail and make people realize how much better &lt;em&gt;and faster&lt;/em&gt; their afternoon at the supermarket could be.&lt;/p&gt;
+&lt;h3 id=&quot;checkout_expresso&quot;&gt;Checkout expresso&lt;/h3&gt;
 
-&lt;p&gt;~ February 2014&lt;/p&gt;
+&lt;p&gt;A resposta para esta era das trevas contemporânea está na tecnologia de &lt;strong&gt;tags RFID&lt;/strong&gt;. Elas já são largamente usadas em cartões recarregáveis e em alguns produtos eletrônicos em certas lojas (pense DVD nas lojas americanas).&lt;/p&gt;
+
+&lt;p&gt;Uma vez que &lt;strong&gt;todos&lt;/strong&gt; os produtos de um supermercado tenham tags RFID, metade do problema já está resolvido: pegue o produto, saia pela porta. A cobrança vem automaticamente pelo cartão de crédito que você passou na máquina de auto-atendimento. Para quem acha imposível, assista a este &lt;a href=&quot;http://www.youtube.com/watch?v=eob532iEpqk&quot;&gt;vídeo da IBM&lt;/a&gt;. É de 2006.&lt;/p&gt;
+
+&lt;p&gt;Há mais de 10 anos atras, o RFID Journal anunciava &lt;a href=&quot;http://www.rfidjournal.com/articles/view?363&quot;&gt;etiquetas RFID de 1 centavo&lt;/a&gt; em um futuro próximo. O preço ainda está acima de 10 centavos por etiqueta, o que torna o sistema muito caro para implementar em larga escala — teoricamente, esta é a razão pela qual as empresas de supermercados ainda nos mantêm na era das trevas.&lt;/p&gt;
+
+&lt;p&gt;Mas a verdade é que o sistema não precisa ser implementado em larga escala. Se os clientes quiserem uma infraestrutura que torne sua vida mais cômoda, é só passar o custo adiante.&lt;/p&gt;
+
+&lt;h3 id=&quot;um_supermercado_dentro_do_supermercado&quot;&gt;Um supermercado dentro do supermercado&lt;/h3&gt;
+
+&lt;p&gt;Este é um problema que tem limitações não apenas em seu custo de implementação, mas também na logística envolvida. Como deixar que um cliente saia do supermercado sem passar por um caixa? E se ele estiver com uma barrinha de chocolate sem a etiqueta RFID?&lt;/p&gt;
+
+&lt;p&gt;É por isto que a solução deve ser implementada em &lt;em&gt;níveis&lt;/em&gt;. A solução é criar um supermercado dentro do supermercado: uma seção isolada com uma quantidade menor de cada tipo de produto, todos devidamente etiquetados, permitindo que o cliente faça um &lt;em&gt;checkout expresso&lt;/em&gt;, como um passe mensal de pedágio. Obviamente, tal regalia vem com um custo mensal de assinatura.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/DjmIIGF.png&quot; alt=&quot;Chekout expresso&quot; /&gt; &lt;small&gt;Chekout expresso&lt;/small&gt;&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;carrinho_de_compras_inimigo_nmero_1&quot;&gt;Carrinho de compras: inimigo número 1&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/fhCRUpO.png&quot; alt=&quot;Primos?&quot; /&gt; &lt;small&gt;Primos?&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Você sai do supermercado sem pegar fila ou ter que tirar (e recolocar) seus produtos do carrinho de compras. Você sai do mercado. Você vai até seu carro. Você então pára e percebe que todo este processo não funciona sem sacolas e que sua alface vai ter que ir jogada no porta-malas.&lt;/p&gt;
+
+&lt;p&gt;Afinal, como levar os produtos com segurança até sua casa se você não pode levar o carrinho junto?&lt;/p&gt;
+
+&lt;p&gt;A resposta é simples: basta levar o carrinho de compras junto.&lt;/p&gt;
+
+&lt;p&gt;O carrinho de compras deve se tornar um esqueleto modular composto por caixas, usadas para organizar os produtos dentro do mercado e estocá-los no caminho de casa. Idealmente, estas “caixas” seriam apenas uma camada de silicone encaixada no molde do carrinho, para que pudessem ser usadas como sacolas ao serem levadas do mercado.&lt;/p&gt;
+
+&lt;p&gt;Na próxima visita ao mercado, basta retornar as caixas; ou não: se você levar um número muito grande delas para casa é possível que descubra uma cobrança em seu cartão de crédito.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/iskW4hI.png&quot; alt=&quot;Carrinho de Compras Modular alt=Carrinho de Compras Modular&quot; /&gt; &lt;small&gt;Carrinho de Compras Modular&lt;/small&gt;&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a_sim&quot;&gt;Aí sim&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pegue um carrinho de compras&lt;/li&gt;
+
+&lt;li&gt;Coloque seus produtos no carrinho de compras&lt;/li&gt;
+
+&lt;li&gt;&lt;span class=&#39;strike&#39;&gt;Coloque seus produtos no caixa&lt;/span&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;span class=&#39;strike&#39;&gt;Coloque seus produtos em sacolas&lt;/span&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;span class=&#39;strike&#39;&gt;Coloque as sacolas no carrinho de compras&lt;/span&gt;&lt;/li&gt;
+
+&lt;li&gt;Coloque as &lt;span class=&#39;strike&#39;&gt;sacolas&lt;/span&gt; bolsas de silicone de alta durabilidade em seu carro&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Este ensaio é apenas um rascunho do que uma experiência de compra em um mercado poderia se tornar e muito provavelmente pessoas na indústria de varejo com décadas de experiência trabalham em soluções como esta neste exato momento.&lt;/p&gt;
+
+&lt;p&gt;Ainda assim, espero que este ensaio contribua para avançar a discussão sobre o futuro do varejo (físico) e ajude a visualizar quanto melhor &lt;strong&gt;e mais rápida&lt;/strong&gt; poderia ser uma tarde no supermercado.&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;&lt;hr /&gt;&lt;ol&gt;&lt;li id=&quot;fn:1&quot;&gt;
-&lt;p&gt;1) There are innovative players in this sector (&lt;a href=&quot;https://fresh.amazon.com/&quot;&gt;Amazon Fresh&lt;/a&gt;, &lt;a href=&quot;http://www.dollarshaveclub.com/&quot;&gt;Dollar Shave Club&lt;/a&gt;), but the frustration comes mainly from the slowness of markets in general (specially in Brazil) to adopt new practices and business models. &lt;a href=&quot;#fnref:1&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1) Existem players inovadores nesta área, como (&lt;a href=&quot;https://fresh.amazon.com/&quot;&gt;Amazon Fresh&lt;/a&gt; e &lt;a href=&quot;http://www.dollarshaveclub.com/&quot;&gt;Dollar Shave Club&lt;/a&gt;), mas a frustração vem da morosidade da maior parcela do mercado (grandes redes principalmente) de adotar novas práticas e modelos de negócios. &lt;a href=&quot;#fnref:1&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;&lt;li id=&quot;fn:2&quot;&gt;
-&lt;p&gt;2) This is also why we need a version of The Hunger Games in which contestants are selected from a pool of C-level execs in Fortune 500 companies — &lt;em&gt;to keep them in their toes&lt;/em&gt;. &lt;a href=&quot;#fnref:2&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2) Icon Credits: Shopping Cart by Ulrich Pohl from The Noun Project; Person by Alex Fuller from The Noun Project; Michochip by Thomas Uebe from The Noun Project &lt;a href=&quot;#fnref:2&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;&lt;li id=&quot;fn:3&quot;&gt;
-&lt;p&gt;4) Icon Credits: Box by Nono Martínez Alonso from The Noun Project; Shopping Cart by Ulrich Pohl from The Noun Project &lt;a href=&quot;#fnref:3&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3) Icon Credits: Box by Nono Martínez Alonso from The Noun Project; Shopping Cart by Ulrich Pohl from The Noun Project &lt;a href=&quot;#fnref:3&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content>
  </entry>
  

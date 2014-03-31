@@ -3,8 +3,8 @@ layout: page
 title: I Hate Supermarkets
 tagline: null
 published: true
-internal_css: 
-  - custom_internal.css
+
+alt_css: internal.css
 ---
 
 <h2><span class="break comma">A quick redesign of a terrible shopping experience</span>by Daniel Fosco</h2>

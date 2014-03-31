@@ -43,7 +43,8 @@ ul li:last-child {
 
 img {
 
-  margin: 10px 0 10px 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 small {
@@ -106,7 +107,9 @@ h1 {
 }
 
 h2 {
-  margin: 0 0 5px 0
+ font-size: 21px;
+ line-height: 30px;
+ margin-top: 15px;
 }
 
 .break:after {
@@ -122,8 +125,7 @@ body {
 }
 
 ul li {
-  text-align: left;
-  list-style-type: disc;
+  line-height: 30px;
 }
 
 li :selection {

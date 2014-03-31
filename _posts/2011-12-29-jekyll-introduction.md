@@ -4,7 +4,7 @@ category : lessons
 tagline: "Supporting tagline"
 tags : [intro, beginner, jekyll, tutorial, ux]
 
-internal_css: custom_internal.css
+internal_css: internal.css
 ui-language: english
 ---
 {% include JB/setup %}

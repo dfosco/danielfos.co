@@ -98,10 +98,14 @@ ul li.strike {
 }
 
 img {
-
+  width: 80%;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
+
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
 }
 
 .page-header {
@@ -115,7 +119,7 @@ p.port {
 }
 
 /*-------------------------------------------------*/
-/* CUSTOM CLASSES */
+/* GENERAL CUSTOM CLASSES FOR HOMEPAGE */
 /*-------------------------------------------------*/
 
 /*General*/
@@ -197,6 +201,103 @@ footer a:hover {
 }
 
 /*-------------------------------------------------*/
+/*NAV-BAR*/
+/*-------------------------------------------------*/
+
+.navbar {
+  width: 100%;
+}
+
+.navbar-inner{
+  min-height:40px;
+  padding-left:20px;
+  padding-right:20px;
+  background-color: #2A2D35;
+  color: #242935;
+  background-image: none;
+  background-repeat: none;
+  filter: none;
+  border: none;
+  -webkit-border-radius: none;
+  border-radius: 0px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+
+}
+
+.navbar-inner a {
+  text-shadow: none !important;
+}
+
+  .navbar-inner:before,.navbar-inner:after{
+    display:table;
+    content:"";
+    line-height:0;
+  }
+
+.navbar .brand{
+ float:left;
+ display:block;
+ padding:10px 20px 10px;
+ margin-left: 0;
+ font-family: 'Lato', sans-serif; 
+ font-weight: 400;
+ font-size: 24px;
+ line-height: 34px;
+ color:#CD544E;
+ text-shadow: none;
+ text-transform: uppercase;
+}
+
+.navbar .brand:hover{
+ color: #d97e7c;
+}
+
+/*-------------------------------------------------*/
+/*NAV BAR MEDIA QUERIES*/
+/*-------------------------------------------------*/
+
+@media (max-width: 480px) { 
+.navbar .brand{
+  margin-left: -8%;
+}
+
+}
+
+@media (min-width: 481px) and (max-width: 768px) { 
+
+.navbar .brand {
+  margin-left: -5%;
+}
+
+
+
+}
+
+@media (min-width: 769px) and (max-width: 940px) { 
+
+.navbar .brand {
+  margin-left: -5%;
+}
+
+
+} 
+
+@media (min-width: 940px) { 
+
+.navbar .brand {
+  margin-left: 0;
+}
+
+
+
+}
+
+
+
+
+/*-------------------------------------------------*/
 /*BLOG INTERFACE CUSTOMIZATION*/
 /*-------------------------------------------------*/
 
@@ -209,6 +310,14 @@ footer a:hover {
 
 .pagination ul>li>a, .pagination ul>li>span {
   background-color: #242935;
+}
+
+/*Navigation Buttons for Mobile*/
+
+@media (max-width: 480px) { 
+.pagination ul>li>a,.pagination ul>li>span{
+ padding: 4px 6px;
+}
 }
 
 /*Tag List*/
@@ -367,6 +476,11 @@ h1 {
  padding-bottom: 0px;
 }
 
+h2 {
+ font-size: 21px;
+ line-height: 30px;
+}
+
 
 body {
   font-size: 21px;
@@ -375,7 +489,8 @@ body {
 
 ul li {
   text-align: left;
-  list-style-type: disc;
+  list-style-type: none;
+  line-height: 30px;
 }
 
 li :selection {
@@ -392,7 +507,7 @@ ul li:first-child {
 
 ul li:last-child {
   margin-bottom: 15px;
-  text-decoration: line-through;
+  
 }
 
 ul,ol {
@@ -444,7 +559,6 @@ h1 {
 .port a:after {
     content:" —";
 }
-
 
  }
 

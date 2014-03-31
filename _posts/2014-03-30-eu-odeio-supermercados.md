@@ -1,96 +1,89 @@
 ---
 layout: post
-title: I Hate Supermarkets
-tagline: A quick redesign of a terrible shopping experience
+title: Eu Odeio Supermercados
+tagline: Analisando uma péssima experiência de compra
 published: true
 
 author: Daniel Fosco
 tags: [ux, service design, retail]
 category: ensaio
 
-internal_css: custom_internal.css
+alt_css: internal.css
 language: portuguese
 
 ---
 
-###A Hate/Hate relationship
+###Uma relação de ódio e ódio
 
-I hate supermarkets. In their current state, they're a prime example of lost opportunities for innovation and, most importantly, of time waste for both customers and companies.
+Eu odeio supermercados. Da forma como são hoje, supermercados são uma gigantesca perda de tempo para clientes e para as empresas, além de uma ótima oportunidade de inovação desperdiçada.
 
-They're ineficcient — and that's not even comparing them with online grocery shopping, which is better, but yet another wasteland of good opportunities[^1].
+Supermercados são ineficientes — ainda mais se comparados ao e-commerce, que, ainda que melhor, é também um mercado muito conversador em termos de modelo de negócios[^1].
 
-Let's review the steps necessary to successfully buy groceries, once you're at the supermarket:
+Para destrinchar este sentimento de rejeição violenta, vejamos os passos necessários para fazer compras no mercado (uma vez que você já esteja lá):
   
-  - Get a shopping cart
-  - Put stuff in shopping cart
-  - Put stuff in the checkout tray
-  - Put stuff in bags
-  - Put bags in shopping cart
-  - Put bags in your car
+  - Pegue um carrinho de compras
+  - Coloque seus produtos no carrinho de compras
+  - Coloque seus produtos no caixa
+  - Coloque seus produtos em sacolas
+  - Coloque as sacolas no carrinho de compras
+  - Coloque as sacolas em seu carro
 
-Sounds too much? That's because it is. And I'm not even talking about lines. But now we have the technology to do better.
+Parece muito? Por que é. E esta lista sequer considera filas no mercado ou trânsito no caminho. Mas não se desespere. Dá pra fazer melhor.
 
-###Express Checkout
+###Checkout expresso
 
-This process is downright unacceptable. You might as well travel back in time to the Middle Ages if you're into this kind of dark stuff.
+A resposta para esta era das trevas contemporânea está na tecnologia de **tags RFID**. Elas já são largamente usadas em cartões recarregáveis e em alguns produtos eletrônicos em certas lojas (pense DVD nas lojas americanas).
 
-The answer for this contemporary dark age are RFID tags. They're already on your public transport card and in the stuff the Supermarket *really* doesn't want you to steal, like DVDs and [Tide](http://www.theatlantic.com/business/archive/2012/03/why-are-criminals-stealing-tide-detergent-and-using-it-for-money/254631/). 
+Uma vez que **todos** os produtos de um supermercado tenham tags RFID, metade do problema já está resolvido: pegue o produto, saia pela porta. A cobrança vem automaticamente pelo cartão de crédito que você passou na máquina de auto-atendimento. Para quem acha imposível, assista a este [vídeo da IBM](http://www.youtube.com/watch?v=eob532iEpqk). É de 2006.
 
-Once you have them in your products, half of the problem is gone — grab the thing, go out the door. Charge my credit card later, thank you. For those that still don't get it, watch this hip [IBM concept video](http://www.youtube.com/watch?v=eob532iEpqk). It's from 2006.
+Há mais de 10 anos atras, o RFID Journal anunciava [etiquetas RFID de 1 centavo](http://www.rfidjournal.com/articles/view?363) em um futuro próximo. O preço ainda está acima de 10 centavos por etiqueta, o que torna o sistema muito caro para implementar em larga escala — teoricamente, esta é a razão pela qual as empresas de supermercados ainda nos mantêm na era das trevas.
 
-Over 10 years ago the RFID Journal was announcing [1-cent tags](http://www.rfidjournal.com/articles/view?363). The price still haven't dropped below 10 cents, which makes it too expensive to implement in large scale, and is the alleged reason supermarkets still keep us in the dark ages.
+Mas a verdade é que o sistema não precisa ser implementado em larga escala. Se os clientes quiserem uma infraestrutura que torne sua vida mais cômoda, é só passar o custo adiante.
 
-But you know what? They don't have to implement it in large scale. If people want expensive infrastructure that makes their life better, just make them pay for it.
+###Um supermercado dentro do supermercado
+
+Este é um problema que tem limitações não apenas em seu custo de implementação, mas também na logística envolvida. Como deixar que um cliente saia do supermercado sem passar por um caixa? E se ele estiver com uma barrinha de chocolate sem a etiqueta RFID?
+
+É por isto que a solução deve ser implementada em *níveis*. A solução é criar um supermercado dentro do supermercado: uma seção isolada com uma quantidade menor de cada tipo de produto, todos devidamente etiquetados, permitindo que o cliente faça um *checkout expresso*, como um passe mensal de pedágio. Obviamente, tal regalia vem com um custo mensal de assinatura.
+
+![Chekout expresso](http://i.imgur.com/DjmIIGF.png)
+<small>Chekout expresso</small>[^2]
+
+###Carrinho de compras: inimigo número 1
+
+![Primos?](http://i.imgur.com/fhCRUpO.png)
+<small>Primos?</small>
+
+Você sai do supermercado sem pegar fila ou ter que tirar (e recolocar) seus produtos do carrinho de compras. Você sai do mercado. Você vai até seu carro. Você então pára e percebe que todo este processo não funciona sem sacolas e que sua alface vai ter que ir jogada no porta-malas. 
+
+Afinal, como levar os produtos com segurança até sua casa se você não pode levar o carrinho junto?
+
+A resposta é simples: basta levar o carrinho de compras junto.
+
+O carrinho de compras deve se tornar um esqueleto modular composto por caixas, usadas para organizar os produtos dentro do mercado e estocá-los no caminho de casa.
+Idealmente, estas "caixas" seriam apenas uma camada de silicone encaixada no molde do carrinho, para que pudessem ser usadas como sacolas ao serem levadas do mercado.
+
+Na próxima visita ao mercado, basta retornar as caixas; ou não: se você levar um número muito grande delas para casa é possível que descubra uma cobrança em seu cartão de crédito.
+
+![Carrinho de Compras Modular  alt="Carrinho de Compras Modular"](http://i.imgur.com/iskW4hI.png)
+<small>Carrinho de Compras Modular</small>[^3]
+
+###Aí sim
+
+  - Pegue um carrinho de compras
+  - Coloque seus produtos no carrinho de compras
+  - <span class="strike">Coloque seus produtos no caixa</span>
+  - <span class="strike">Coloque seus produtos em sacolas</span>
+  - <span class="strike">Coloque as sacolas no carrinho de compras</span>
+  - Coloque as <span class="strike">sacolas</span> bolsas de silicone de alta durabilidade em seu carro
+
+Este ensaio é apenas um rascunho do que uma experiência de compra em um mercado poderia se tornar e muito provavelmente pessoas na indústria de varejo com décadas de experiência trabalham em soluções como esta neste exato momento.
+
+Ainda assim, espero que este ensaio contribua para avançar a discussão sobre o futuro do varejo (físico) e ajude a visualizar quanto melhor **e mais rápida** poderia ser uma tarde no supermercado.
 
 
-###A Supermarket within a Supermarket
+[^1]: 1) Existem players inovadores nesta área, como ([Amazon Fresh](https://fresh.amazon.com/) e [Dollar Shave Club](http://www.dollarshaveclub.com/)), mas a frustração vem da morosidade da maior parcela do mercado (grandes redes principalmente) de adotar novas práticas e modelos de negócios.
 
-Certainly, the problem of widely implementing RFID tags in retail is affected by logistics, as much as it's by cost. How do you allow people to leave the supermarket with a product that doesn't have to go through the cashier? What if they pocket that candy bar that doesn't have the damn tag[^2]?
+[^2]: 2) Icon Credits: Shopping Cart by Ulrich Pohl from The Noun Project; Person by Alex Fuller from The Noun Project; Michochip by Thomas Uebe from The Noun Project
 
-This is why it has to be done in *levels*.
-
-The solution is to have a supermarket inside a supermarket. A closed off section with a small sample of every product, properly tagged, that allows the customer to do an express checkout, similar to a monthly-pass on a highway toll. Of course, there's also a subscription price for all of this convenience.
-
-![Highway Supermarket](http://i.imgur.com/oKbKq8y.png)
-<small>Highway Supermarket</small>
-
-###The Bane of Shopping Carts
-
-![Definitely cousins](http://i.imgur.com/fhCRUpO.png)
-<small>Definitely cousins</small>
-
-So you've left the supermarket without taking any lines or having to move the products from the cart. You walk to your car. And then you realize you still need to bag the things you just bought. Ugh.
-
-You're part of the problem shopping cart. Time to become part of the solution.
-
-The idea is for the cart to become a skeleton for a modular set of boxes, that are used to store products inside the market and in the way home. 
-
-![Modular Shopping Cart  alt="Modular Shopping Cart"](http://i.imgur.com/iskW4hI.png)
-<small>A modular, take-away shopping cart</small>[^4]
-
-When you return the next time, bring back the boxes. Or don't — if you want to take 20 of them home you can, but your credit card will be charged.
-
-Ideally, the "boxes" would be made out of a semi-hard silicon material that fits the format of the cart, but bend to double as bags on the way home.
-
-###Now we're talking!
-
-  - Get a shopping cart
-  - Put stuff in shopping cart
-  - <span class="strike">Put stuff in the checkout tray</span>
-  - <span class="strike">Put stuff in bags</span>
-  - <span class="strike">Put bags in shopping cart</span>
-  - Put <span class="strike">bags</span> high-tech boxes in your car
-
-This is just a sketch of what a different grocery shopping experience could become, and undoubtedly, people in the industry with decades of experience on the subject are working on solutions like this right now.
-
-Still, I hope it contributes to further drive the discussion on the future of physical retail and make people realize how much better *and faster* their afternoon at the supermarket could be.
-
-~ February 2014
-
-[^1]: 1) There are innovative players in this sector ([Amazon Fresh](https://fresh.amazon.com/), [Dollar Shave Club](http://www.dollarshaveclub.com/)), but the frustration comes mainly from the slowness of markets in general (specially in Brazil) to adopt new practices and business models.
-
-[^2]: 2) This is also why we need a version of The Hunger Games in which contestants are selected from a pool of C-level execs in Fortune 500 companies — *to keep them in their toes*.
-
-[^3]: 3) Icon Credits: Shopping Cart by Ulrich Pohl from The Noun Project; Person by Alex Fuller from The Noun Project; Michochip by Thomas Uebe from The Noun Project
-
-[^4]: 4) Icon Credits: Box by Nono Martínez Alonso from The Noun Project; Shopping Cart by Ulrich Pohl from The Noun Project
+[^3]: 3) Icon Credits: Box by Nono Martínez Alonso from The Noun Project; Shopping Cart by Ulrich Pohl from The Noun Project

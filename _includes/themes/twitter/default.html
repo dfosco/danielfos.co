@@ -23,13 +23,15 @@
     <link href="{{ ASSET_PATH }}/css/custom.css?body=1" rel="stylesheet" type="text/css" media="all">
     <link href="{{ ASSET_PATH }}/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
    
-   {% for codex.css in page.pagebased_css %}
-    <link href="{{ ASSET_PATH }}/css/codex.css?body=1" rel="stylesheet" type="text/css" media="all">
-   {% endfor %}
 
-   {% for css_name in page.internal_css %}
-   <link href="{{ ASSET_PATH }}/css/custom_internal.css?body=1" rel="stylesheet" type="text/css" media="all">
-   {% endfor %}
+  {% case page.alt_css %}
+     {% when 'codex.css' %}
+     {% include themes/custom/codex_css %}
+      
+     {% when 'internal.css' %}
+     {% include themes/custom/internal_css %}
+  {% endcase %}
+
 
    <style type="text/css"> .icon {background:none;} </style>
 
@@ -64,19 +66,10 @@
   </head>
 
   <body>
-    <!-- <div class="navbar">
-      <div class="navbar-inner">
-        <div class="container-narrow">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-          <ul class="nav">
-            {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
-          </ul>
-        </div>
-      </div>
-    </div>
--->
+
+    {% if page.top-nav != "none" %}
+    {% include themes/custom/top-bar %}
+    {% endif %}
 
     <div class="container-narrow">
 
