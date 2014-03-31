@@ -3,6 +3,7 @@ layout: page
 title: Daniel Fosco
 tagline: null
 published: true
+top-nav: none
 ---
 
 {% include JB/setup %}
@@ -33,7 +34,7 @@ Atualmente trabalha na consultoria [Hub9](https://www.facebook.com/hub9.co "Hub9
 
 Antes disso, foi gerente de distribuição e controle de qualidade na agregadora de <span class="nowrap">e-books</span> [Xeriph](http://www.xeriph.com.br "Xeriph Homepage").
 
-
+Escreve sobre assuntos variados [aqui](/blog "Blog").
 
 ##Portfólio Selecionado
 
