@@ -3,8 +3,9 @@ layout: page
 title: LIVRO
 tagline: null
 published: true
-pagebased_css: codex.css
+alt_css: codex.css
 alt_fav: livro_favicon.ico
+top-nav: none
 
 og-title: LIVRO
 og-image: http://dfosco.github.io/dfos.co/assets/themes/twitter/images/livro_facebook_og.png

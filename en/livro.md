@@ -3,10 +3,9 @@ layout: page
 title: LIVRO
 tagline: null
 published: true
-codex_css: 
-  - codex.css
-alt_fav: 
-  - livro_favicon.ico
+top-nav: none
+alt_fav: livro_favicon.ico
+alt_css: codex.css
 ---
 
 {% include JB/setup %}

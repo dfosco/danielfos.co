@@ -3,7 +3,8 @@ layout: page
 title: Navigations
 tagline: null
 published: true
-pagebased_css: custom_internal.css
+alt_css: internal.css
+
 ---
 
 <h2><span class="break comma">A brief report on website navigation systems</span>by Daniel Fosco</h2>
