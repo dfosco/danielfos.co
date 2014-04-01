@@ -54,12 +54,12 @@
 
     <!-- Facebook OG Tags -->
 
-    <meta content="{{ page.title }}" property="og:title" />
-    <meta content="{{ page.og-image }}" property="og:image" />
-    <meta content="{{ site.title }}" property="og:site_name"/>
-    <meta content="blog" property="og:type"/>
-    <meta content="{{ page.tagline }}" property="og:description"/>
-    <meta content="{{ site.production_url }}{{ page.url }}" property="og:url">
+    <meta  property="og:title" content="{{ page.title }}"/>
+    <meta property="og:image" content="{{ ASSET_PATH }}/images{{ page.url }}.png"/>
+    <meta property="og:site_name" content="{{ site.title }}"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:description" content="{{ page.tagline }}"/>
+    <meta property="og:url" content="{{ site.production_url }}{{ page.url }}">
 
     <!-- Google Analytics -->
     {% include JB/analytics-providers/google %}
