@@ -11,10 +11,10 @@ category: ensaio
 alt_css: internal.css
 language: portuguese
 
-og-title: {{ page.title }}
-og-site_name: {{ site.title }}
-og-description: {{ page.tagline }}
-og-url: {{ page.url }}
+og-title: Eu Odeio Supermercados
+og-site_name: Daniel Fosco
+og-description: Analisando uma péssima experiência de compra
+og-url: http://danielfos.co/blog/eu-odeio-supermercados/
 og-image: http://i.imgur.com/fhCRUpO.png
 
 ---
