@@ -54,12 +54,12 @@
 
     <!-- Facebook OG Tags -->
 
-    <meta content="{{ page.og-title }}" property="og:title" />
+    <meta content="{{ page.title }}" property="og:title" />
     <meta content="{{ page.og-image }}" property="og:image" />
-    <meta content="{{ page.og-site_name }}" property="og:site_name"/>
-    <meta content="{{ page.og-description }}" property="og:description"/>
-    <meta content="{{ page.og-url }}" property="og:url">
-        
+    <meta content="{{ site.title }}" property="og:site_name"/>
+    <meta content="{{ page.tagline }}" property="og:description"/>
+    <meta content="{{ page.url }}" property="og:url">
+
     <!-- Google Analytics -->
     {% include JB/analytics-providers/google %}
 

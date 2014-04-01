@@ -11,10 +11,6 @@ category: ensaio
 alt_css: internal.css
 language: portuguese
 
-og-title: Eu Odeio Supermercados
-og-site_name: Daniel Fosco
-og-description: Analisando uma péssima experiência de compra
-og-url: http://danielfos.co/blog/eu-odeio-supermercados/
 og-image: http://i.imgur.com/fhCRUpO.png
 
 ---
