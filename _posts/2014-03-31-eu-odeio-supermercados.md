@@ -11,6 +11,12 @@ category: ensaio
 alt_css: internal.css
 language: portuguese
 
+og-title: {{ page.title }}
+og-site_name: {{ site.title }}
+og-description: {{ page.tagline }}
+og-url: {{ page.url }}
+og-image: http://i.imgur.com/fhCRUpO.png
+
 ---
 
 ###Uma relação de ódio e ódio
