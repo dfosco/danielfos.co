@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Daniel Fosco</title>
- <link href="danielfos.co/" rel="self"/>
- <link href="danielfos.co"/>
- <updated>2014-04-01T01:39:12-03:00</updated>
- <id>danielfos.co</id>
+ <link href="http://danielfos.co/" rel="self"/>
+ <link href="http://danielfos.co"/>
+ <updated>2014-04-01T01:45:12-03:00</updated>
+ <id>http://danielfos.co</id>
  <author>
    <name>Daniel Fosco</name>
    <email>danielfosco@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Eu Odeio Supermercados</title>
-   <link href="danielfos.co/blog/eu-odeio-supermercados"/>
+   <link href="http://danielfos.co/blog/eu-odeio-supermercados"/>
    <updated>2014-03-31T00:00:00-03:00</updated>
-   <id>danielfos.co/blog/eu-odeio-supermercados</id>
+   <id>http://danielfos.co/blog/eu-odeio-supermercados</id>
    <content type="html">&lt;h3 id=&quot;uma_relao_de_dio_e_dio&quot;&gt;Uma relação de ódio e ódio&lt;/h3&gt;
 
 &lt;p&gt;Eu odeio supermercados. Da forma como são hoje, supermercados são uma gigantesca perda de tempo para clientes e para as empresas, além de uma ótima oportunidade de inovação desperdiçada.&lt;/p&gt;
@@ -105,17 +105,17 @@
  
  <entry>
    <title></title>
-   <link href="danielfos.co/blog/post-padrao"/>
+   <link href="http://danielfos.co/blog/post-padrao"/>
    <updated>2014-03-30T00:00:00-03:00</updated>
-   <id>danielfos.co/blog/post-padrao</id>
+   <id>http://danielfos.co/blog/post-padrao</id>
    <content type="html"></content>
  </entry>
  
  <entry>
    <title>25 Anos da Web</title>
-   <link href="danielfos.co/blog/25-anos-da-web"/>
+   <link href="http://danielfos.co/blog/25-anos-da-web"/>
    <updated>2014-03-16T00:00:00-03:00</updated>
-   <id>danielfos.co/blog/25-anos-da-web</id>
+   <id>http://danielfos.co/blog/25-anos-da-web</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/DiMDAJ3.jpg&quot; alt=&quot;Proposta inicial de Tim Berners-Lee para o CERN&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;

@@ -1,19 +1,19 @@
 
-danielfos.co/archive.html
-danielfos.co/atom.xml
-danielfos.co/blog/index.html
-danielfos.co/categories.html
-danielfos.co/en/index.html
-danielfos.co/en/livro.html
-danielfos.co/i-hate-supermarkets.html
-danielfos.co/index.html
-danielfos.co/livro.html
-danielfos.co/navigations.html
-danielfos.co/pages.html
-danielfos.co/rss.xml
-danielfos.co/sitemap.txt
-danielfos.co/tags.html
+http://danielfos.co/archive.html
+http://danielfos.co/atom.xml
+http://danielfos.co/blog/index.html
+http://danielfos.co/categories.html
+http://danielfos.co/en/index.html
+http://danielfos.co/en/livro.html
+http://danielfos.co/i-hate-supermarkets.html
+http://danielfos.co/index.html
+http://danielfos.co/livro.html
+http://danielfos.co/navigations.html
+http://danielfos.co/pages.html
+http://danielfos.co/rss.xml
+http://danielfos.co/sitemap.txt
+http://danielfos.co/tags.html
 
-danielfos.co/blog/eu-odeio-supermercados
-danielfos.co/blog/post-padrao
-danielfos.co/blog/25-anos-da-web
+http://danielfos.co/blog/eu-odeio-supermercados
+http://danielfos.co/blog/post-padrao
+http://danielfos.co/blog/25-anos-da-web
