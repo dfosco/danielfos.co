@@ -15,5 +15,4 @@ danielfos.co/sitemap.txt
 danielfos.co/tags.html
 
 danielfos.co/blog/eu-odeio-supermercados
-danielfos.co/blog/post-padrao
 danielfos.co/blog/25-anos-da-web
