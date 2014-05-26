@@ -2,6 +2,11 @@
 /* body, h1, h2, h3, h4, h5, h6, img */
 /*-------------------------------------------------*/
 
+html, html a {
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+
 body {
   background: #242935;
   color: #9093A0;
