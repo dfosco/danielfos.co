@@ -5,8 +5,8 @@
         <description>Daniel Fosco - Daniel Fosco</description>
         <link>danielfos.co</link>
         <link>danielfos.co</link>
-        <lastBuildDate>2014-05-27T16:31:02-03:00</lastBuildDate>
-        <pubDate>2014-05-27T16:31:02-03:00</pubDate>
+        <lastBuildDate>2014-05-27T16:34:48-03:00</lastBuildDate>
+        <pubDate>2014-05-27T16:34:48-03:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -32,41 +32,43 @@
 
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;26%: Core UX, that is requirements that described research, prototyping or other tasks common for UX professionas&lt;/p&gt;
+&lt;p&gt;26%: &lt;strong&gt;Core UX&lt;/strong&gt;. That is requirements that described research, prototyping or other tasks common for UX professionas&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;p&gt;18%: Previous experience. Requirements that described previous work experience necessary for the job&lt;/p&gt;
+&lt;p&gt;18%: &lt;strong&gt;Previous experience&lt;/strong&gt;. Requirements that described previous work experience necessary for the job&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;p&gt;17%: Soft Skills. Requirements describing good communication, independency, leadership or other “soft” skills&lt;/p&gt;
+&lt;p&gt;17%: &lt;strong&gt;Soft Skills&lt;/strong&gt;. Requirements describing good communication, independency, leadership or other “soft” skills&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;p&gt;16%: Visual Design. Requirements describing visual/interacion design skills and prowess with design software&lt;/p&gt;
+&lt;p&gt;16%: &lt;strong&gt;Visual Design&lt;/strong&gt;. Requirements describing visual/interacion design skills and prowess with design software&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;p&gt;11%: Dev. Requirements related to front-end development or experience with developer tools&lt;/p&gt;
+&lt;p&gt;11%: &lt;strong&gt;Front-end Dev&lt;/strong&gt;. Requirements related to front-end development or experience with developer tools&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;p&gt;5%: Academic. Requirements describing necessary BA/BS background.&lt;/p&gt;
+&lt;p&gt;5%: &lt;strong&gt;Academic&lt;/strong&gt;. Requirements describing necessary BA/BS background.&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;p&gt;3%: Analysis. Requirements related to data-analysis and extensive research. Google and Facebook, basically.&lt;/p&gt;
+&lt;p&gt;3%: &lt;strong&gt;Analysis&lt;/strong&gt;. Requirements related to data-analysis and extensive research. Google and Facebook, basically.&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;p&gt;2%: Others. Requirements that didn’t fit any of the above&lt;/p&gt;
+&lt;p&gt;2%: &lt;strong&gt;Others&lt;/strong&gt;. Requirements that didn’t fit any of the above criteria&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;It’s important to note that this interpretations are very subjective, as one requirement can be in several groups at once. This is still an ongoing analysis, and will soon account for this factor — as well as present the data in a proper manner.&lt;/p&gt;</description>
+&lt;p&gt;It’s important to note that this interpretations are very subjective, as one requirement can be in several groups at once. This is still an ongoing analysis, and will soon account for this factor — as well as present the data in a proper manner.&lt;/p&gt;
+
+&lt;p&gt;For now, the full data can be found on &lt;a href=&quot;https://www.dropbox.com/s/l5xa5870zvgt68m/ux_jobs.xlsx&quot;&gt;this spreadsheet&lt;/a&gt;.&lt;/p&gt;</description>
                 <link>danielfos.co/blog/ux_jobs</link>
                 <guid>danielfos.co/blog/ux_jobs</guid>
                 <pubDate>2014-05-27T00:00:00-03:00</pubDate>
