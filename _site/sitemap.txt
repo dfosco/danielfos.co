@@ -14,5 +14,6 @@ danielfos.co/rss.xml
 danielfos.co/sitemap.txt
 danielfos.co/tags.html
 
+danielfos.co/blog/ux_jobs
 danielfos.co/blog/eu-odeio-supermercados
 danielfos.co/blog/25-anos-da-web

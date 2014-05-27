@@ -4,13 +4,75 @@
  <title>Daniel Fosco</title>
  <link href="danielfos.co/" rel="self"/>
  <link href="danielfos.co"/>
- <updated>2014-05-26T20:17:22-03:00</updated>
+ <updated>2014-05-27T16:31:02-03:00</updated>
  <id>danielfos.co</id>
  <author>
    <name>Daniel Fosco</name>
    <email>danielfosco@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>UX Jobs</title>
+   <link href="danielfos.co/blog/ux_jobs"/>
+   <updated>2014-05-27T00:00:00-03:00</updated>
+   <id>danielfos.co/blog/ux_jobs</id>
+   <content type="html">&lt;p&gt;After analyzing 20 UX job offerings, here are some initial impressions on the UX job market:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Jobs with the same name can vary wildly in the required skills, but most lean either to visual design and prototyping. Front-end development and knowledge of dev tools are still a plus on most jobs, but are not uncommon.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Most spots, with or without experience/academic requirements, require some level of previous experience by describing communication skills/leadership that are not common for junior designers.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Not only that, even admittedly Junior positions have way too many requirements, akin to some dev positions that require a full-stack skillset from junior programmers.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;After roughly dividing each job requirement by “skill type”, this is the outcome:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;26%: Core UX, that is requirements that described research, prototyping or other tasks common for UX professionas&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;18%: Previous experience. Requirements that described previous work experience necessary for the job&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;17%: Soft Skills. Requirements describing good communication, independency, leadership or other “soft” skills&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;16%: Visual Design. Requirements describing visual/interacion design skills and prowess with design software&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;11%: Dev. Requirements related to front-end development or experience with developer tools&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;5%: Academic. Requirements describing necessary BA/BS background.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;3%: Analysis. Requirements related to data-analysis and extensive research. Google and Facebook, basically.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;2%: Others. Requirements that didn’t fit any of the above&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s important to note that this interpretations are very subjective, as one requirement can be in several groups at once. This is still an ongoing analysis, and will soon account for this factor — as well as present the data in a proper manner.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Eu Odeio Supermercados</title>
