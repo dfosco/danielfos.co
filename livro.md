@@ -3,35 +3,28 @@ layout: page
 title: LIVRO
 tagline: null
 published: true
-alt_css: codex.css
-alt_fav: livro_favicon.ico
 top-nav: none
-
-og-title: LIVRO
-og-image: http://dfosco.github.io/dfos.co/assets/themes/twitter/images/livro_facebook_og.png
-og-site_name: Daniel Fosco
-og-description: Uma pesquisa histórica a respeito das tecnologias do livro e suas implicações para os leitores e suas sociedades.
-og-url: http://danielfos.co/livro.html
+alt_fav: livro_favicon.ico
+alt_css: codex.css
 ---
 
 {% include JB/setup %}
 
-##Uma exploração tecnológica da leitura
+##A technological exploration of reading
 
 ---
 
-Este trabalho traz uma pesquisa histórica a respeito das tecnologias do livro e suas implicações para os leitores e suas sociedades — do surgimento da escrita ao desenvolvimento da leitura digital.
+This work brings forward a historical research around the technologies of the book throughout history and its implications for readers and their societies — from the dawn of writing to the development of digital reading.
 
-Download disponível em EPUB, MOBI e PDF.
+It was presented as a graduation project in the Communications - Publishing major at Universidade Federal do Rio de Janeiro in December 2013.
 
-O projeto ainda se encontra em processo de edição, que pode ser acompanhado pelo repositório do LIVRO no [Github](https://github.com/dfosco/LIVRO). 
+Currently, it is not available in english. If you want to be notified when it eventually comes up, just stick around, or sign up [here](http://eepurl.com/Nir1v "Notification Sign-up").
 
-Para ser notificado por email sobre o lançamento de novas edições, basta se inscrever [aqui](http://eepurl.com/NisaH "Notification Sign-up").
+The full text in portuguese can be downloaded below.
 
 [EPUB](http://cl.ly/UhXv) • [MOBI](http://cl.ly/UhPg) • [PDF](http://cl.ly/UY5V)
 ---
 
 ---
 
-
-[&#8617; Voltar](../ "Back")
+[&#8617; Back](/en/index.html "Back")
