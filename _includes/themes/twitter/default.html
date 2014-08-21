@@ -23,26 +23,33 @@
     <link href="{{ ASSET_PATH }}/css/custom.css?body=1" rel="stylesheet" type="text/css" media="all">
     <link href="{{ ASSET_PATH }}/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
    
+   
+    {% if page.alt_css == 'codex.css' %}
+    
+      {% include themes/custom/codex_css %}
+    
+    {% elsif page.alt_css == 'internal.css' %}
 
-  {% case page.alt_css %}
-     {% when 'codex.css' %}
-     {% include themes/custom/codex_css %}
-      
-     {% when 'internal.css' %}
-     {% include themes/custom/internal_css %}
-  {% endcase %}
+      {% include themes/custom/internal_css %}
+
+    {% else %}
+    {% endif %}
+
+
 
 
    <style type="text/css"> .icon {background:none;} </style>
 
 
   <!-- Le fav and touch icons -->
-  <!-- Update these with your own images -->
-    <link rel="shortcut icon" href="{{ ASSET_PATH }}/images/red_favicon.ico">
 
-   {% for livro_favicon.ico in page.alt_fav %}
-    <link rel="shortcut icon" href="{{ ASSET_PATH }}/images/livro_favicon.ico">
-   {% endfor %}
+    {% if page.alt_fav == 'livro_favicon.ico' %}
+   <link rel="shortcut icon" href="{{ ASSET_PATH }}/images/livro_favicon.ico">
+    {% else %}
+   <link rel="shortcut icon" href="{{ ASSET_PATH }}/images/red_favicon.ico">
+    {% endif %}
+    
+
   <!--  <link rel="apple-touch-icon" href="images/apple-touch-icon.png"> -->
   <!--  <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png"> -->
   <!-- <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"> -->

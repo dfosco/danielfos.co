@@ -24,10 +24,6 @@ Este trabalho traz uma pesquisa histórica a respeito das tecnologias do livro e
 
 Download disponível em EPUB, MOBI e PDF.
 
-O projeto ainda se encontra em processo de edição, que pode ser acompanhado pelo repositório do LIVRO no [Github](https://github.com/dfosco/LIVRO). 
-
-Para ser notificado por email sobre o lançamento de novas edições, basta se inscrever [aqui](http://eepurl.com/NisaH "Notification Sign-up").
-
 [EPUB](http://cl.ly/UhXv) • [MOBI](http://cl.ly/UhPg) • [PDF](http://cl.ly/UY5V)
 ---
 
