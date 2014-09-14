@@ -58,10 +58,8 @@ Previously, manager for QA and content distribution at the <span class="nowrap">
 
 ##Say hi
 ---
-<div class="icon"><a href="mailto:danielfosco@gmail.com" target="_blank"><span class="screen-reader-text">Email</span><i class="fa fa-envelope-o fa-2x"> </i></a></div>
-<div class="icon"><a href="https://www.twitter.com/notdanielfosco" target="_blank"><span class="screen-reader-text">Twitter</span><i class="fa fa-twitter fa-2x"> </i></a></div>  
-<div class="icon"><a href="https://www.github.com/dfosco" target="_blank"><span class="screen-reader-text">Github</span><i class="fa fa-github-alt fa-2x"> </i></a></div>
-<div class="icon"><a href="https://br.linkedin.com/in/danielfosco/en" target="_blank"><span class="screen-reader-text">Linkedin</span><i class="fa fa-linkedin fa-2x"> </i></a></div>
-
+Drop me a line at <a href="#">danielfosco@gmail.com</a> or [@notdanielfosco](https://www.twitter.com/notdanielfosco).   
+   
+I'm also on [Github](https://github.com/dfosco) and [LinkedIn](https://www.linkedin.com/in/danielfosco/en).   
 
 <div class="text-center" id="translate"><small>Ei. Fala português? <a href="../pt" title="Versão em português">Clique aqui</a>.</small></div>
