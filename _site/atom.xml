@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Daniel Fosco</title>
- <link href="danielfos.co/" rel="self"/>
- <link href="danielfos.co"/>
- <updated>2014-09-14T14:05:37-05:00</updated>
- <id>danielfos.co</id>
+ <link href="http://dfosco.github.io/v1/" rel="self"/>
+ <link href="http://dfosco.github.io/v1"/>
+ <updated>2015-04-28T17:12:30-03:00</updated>
+ <id>http://dfosco.github.io/v1</id>
  <author>
    <name>Daniel Fosco</name>
    <email>danielfosco@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>UX Jobs</title>
-   <link href="danielfos.co/blog/ux_jobs"/>
-   <updated>2014-05-27T00:00:00-05:00</updated>
-   <id>danielfos.co/blog/ux_jobs</id>
+   <link href="http://dfosco.github.io/v1/blog/ux_jobs"/>
+   <updated>2014-05-27T00:00:00-03:00</updated>
+   <id>http://dfosco.github.io/v1/blog/ux_jobs</id>
    <content type="html">&lt;p&gt;After analyzing 20 UX job offerings, here are some initial impressions on the UX job market:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -24,7 +24,7 @@
     &lt;p&gt;Jobs with the same name can vary wildly in the required skills, but most lean either to visual design and prototyping. Front-end development and knowledge of dev tools are still a plus on most jobs, but are not uncommon.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Most spots, with or without experience/academic requirements, require some level of previous experience by describing communication skills/leadership that are not common for junior designers.  &lt;/p&gt;
+    &lt;p&gt;Most spots, with or without experience/academic requirements, require some level of previous experience by describing communication skills/leadership that are not common for junior designers.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Not only that, even admittedly Junior positions have way too many requirements, akin to some dev positions that require a full-stack skillset from junior programmers.&lt;/p&gt;
@@ -70,9 +70,9 @@
  
  <entry>
    <title>Eu Odeio Supermercados</title>
-   <link href="danielfos.co/blog/eu-odeio-supermercados"/>
-   <updated>2014-03-31T00:00:00-05:00</updated>
-   <id>danielfos.co/blog/eu-odeio-supermercados</id>
+   <link href="http://dfosco.github.io/v1/blog/eu-odeio-supermercados"/>
+   <updated>2014-03-31T00:00:00-03:00</updated>
+   <id>http://dfosco.github.io/v1/blog/eu-odeio-supermercados</id>
    <content type="html">&lt;h3 id=&quot;uma-relao-de-dio-e-dio&quot;&gt;Uma relação de ódio e ódio&lt;/h3&gt;
 
 &lt;p&gt;Eu odeio supermercados. Da forma como são hoje, supermercados são uma gigantesca perda de tempo para clientes e para as empresas, além de uma ótima oportunidade de inovação desperdiçada.&lt;/p&gt;
@@ -116,7 +116,7 @@
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/fhCRUpO.png&quot; alt=&quot;Primos?&quot; /&gt;
 &lt;small&gt;Primos?&lt;/small&gt;&lt;/p&gt;
 
-&lt;p&gt;Você sai do supermercado sem pegar fila ou ter que tirar (e recolocar) seus produtos do carrinho de compras. Você sai do mercado. Você vai até seu carro. Você então pára e percebe que todo este processo não funciona sem sacolas e que sua alface vai ter que ir jogada no porta-malas. &lt;/p&gt;
+&lt;p&gt;Você sai do supermercado sem pegar fila ou ter que tirar (e recolocar) seus produtos do carrinho de compras. Você sai do mercado. Você vai até seu carro. Você então pára e percebe que todo este processo não funciona sem sacolas e que sua alface vai ter que ir jogada no porta-malas.&lt;/p&gt;
 
 &lt;p&gt;Afinal, como levar os produtos com segurança até sua casa se você não pode levar o carrinho junto?&lt;/p&gt;
 
@@ -163,9 +163,9 @@ Idealmente, estas “caixas” seriam apenas uma camada de silicone encaixada no
  
  <entry>
    <title>25 Anos da Web</title>
-   <link href="danielfos.co/blog/25-anos-da-web"/>
-   <updated>2014-03-16T00:00:00-05:00</updated>
-   <id>danielfos.co/blog/25-anos-da-web</id>
+   <link href="http://dfosco.github.io/v1/blog/25-anos-da-web"/>
+   <updated>2014-03-16T00:00:00-03:00</updated>
+   <id>http://dfosco.github.io/v1/blog/25-anos-da-web</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/DiMDAJ3.jpg&quot; alt=&quot;Proposta inicial de Tim Berners-Lee para o CERN&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -179,7 +179,7 @@ Idealmente, estas “caixas” seriam apenas uma camada de silicone encaixada no
 &lt;p&gt;A web surgiu com o objetivo inicial de facilitar a colaboração remota entre pesquisadores do CERN, evitando perda de documentos, dados de experimentos e outras informações em meio à alta rotatividade de pesquisadores no instituto. Demonstrando uma visão precisa sobre o problema do excesso de informação, há muito destacado por Vannevar Bush, Berners-Lee afirmava na especificação inicial da www que o “CERN se depara hoje com problemas que o restante do mundo terá de enfrentar em breve” &lt;a href=&quot;http://www.w3.org/History/1989/proposal.html&quot;&gt;(Tim Berners-Lee, 1989)&lt;/a&gt;.
 Sua especificação inicial descrevia um sistema de organização de documentos hipertextual não-hierárquico, em rede (daí o termo “web”), que permitiria a inserção de qualquer tipo de conteúdo. Tal rede seria composta por nós — que poderiam ser notas, comentários, documentos, etc — conectados por &lt;em&gt;links&lt;/em&gt; &lt;a href=&quot;http://www.w3.org/History/1989/proposal.html&quot;&gt;(Tim Berners-Lee, 1989)&lt;/a&gt;. A arquitetura da web segue um modelo onde &lt;em&gt;browsers&lt;/em&gt; (navegadores) se conectam a &lt;em&gt;servers&lt;/em&gt; (servidores), onde uma ponta pode desconhecer o sistema operacional ou formato de dados da outra, pois são intermediados por uma interface HTTP, que traduz quaisquer diferenças de linguagem entre os dois. &lt;a href=&quot;http://www.freehep.org/chep92www.pdf&quot;&gt;(Tim Berners-Lee e Robert Caillau, 1992)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;O projeto inicial de Tim Berners-Lee inclui ainda algumas premissas básicas, postas como pré-requisitos diante das necessidades do CERN, mas que se provariam fundamentais para o desenvolvimento e sucesso do sistema &lt;a href=&quot;http://www.w3.org/History/1989/proposal.html&quot;&gt;(Tim Berners-Lee, 1989)&lt;/a&gt;: &lt;/p&gt;
+&lt;p&gt;O projeto inicial de Tim Berners-Lee inclui ainda algumas premissas básicas, postas como pré-requisitos diante das necessidades do CERN, mas que se provariam fundamentais para o desenvolvimento e sucesso do sistema &lt;a href=&quot;http://www.w3.org/History/1989/proposal.html&quot;&gt;(Tim Berners-Lee, 1989)&lt;/a&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Descentralização do conteúdo&lt;/strong&gt;, permitindo que novos sistemas possam se conectar sem necessitar uma autoridade central;&lt;/li&gt;
@@ -193,7 +193,7 @@ Sua especificação inicial descrevia um sistema de organização de documentos 
 
 &lt;p&gt;Tal difusão não foi apenas um empurrão para a adoção da web, mas crucial para sua sobrevivência como sistema: segundo Berners-Lee, a www não era tão amplamente adotada dentro do CERN, sendo portanto “pessoas interessadas na internet que providenciavam o feedback, estímulo, ideias, contribuições de código-fonte (…) as pessoas na internet construíram a web.” (Idem). Este movimento não foi acidental, já que, tendo pensado um sistema modular e descentralizado que permitia (mais que isto, requeria) amplas contribuições externas, Tim Berners-Lee esperava que a web “alcançasse muito cedo uma utilidade crítica” &lt;a href=&quot;http://www.w3.org/History/1989/proposal.html&quot;&gt;(Tim Berners-Lee, 1989)&lt;/a&gt;, de forma que a própria utilidade do sistema iria encorajar a participação de novos usuários.&lt;/p&gt;
 
-&lt;p&gt;Por mais que a atual ubiquidade da web seja prova auto-evidente do sucesso desta estratégia, à época, outros sistemas seguiam o caminho oposto. Em 1993, a Universidade de Minnesota anunciou que passaria a cobrar uma licença pelo uso comercial de seu protocolo de compartilhamento de documentos online Gopher &lt;a href=&quot;http://www.nic.funet.fi/pub/vms/networking/gopher/gopher-software-licensing-policy.ancient&quot;&gt;(1993)&lt;/a&gt;, concorrente da web, em um movimento que ajudou a impulsionar a adoção e desenvolvimento das tecnologias da www. Apenas sete anos depois o código-fonte do projeto Gopher foi liberado para uso comercial, mas então já era tarde e o lançamento gerou pouco interesse, pois o protocolo se encontrava em desuso &lt;a href=&quot;https://groups.google.com/forum/#!msg/comp.infosystems.gopher/4A-LS_A6qtA/nT89yWKzzsIJ&quot;&gt;(2000)&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Por mais que a atual ubiquidade da web seja prova auto-evidente do sucesso desta estratégia, à época, outros sistemas seguiam o caminho oposto. Em 1993, a Universidade de Minnesota anunciou que passaria a cobrar uma licença pelo uso comercial de seu protocolo de compartilhamento de documentos online Gopher &lt;a href=&quot;http://www.nic.funet.fi/pub/vms/networking/gopher/gopher-software-licensing-policy.ancient&quot;&gt;(1993)&lt;/a&gt;, concorrente da web, em um movimento que ajudou a impulsionar a adoção e desenvolvimento das tecnologias da www. Apenas sete anos depois o código-fonte do projeto Gopher foi liberado para uso comercial, mas então já era tarde e o lançamento gerou pouco interesse, pois o protocolo se encontrava em desuso &lt;a href=&quot;https://groups.google.com/forum/#!msg/comp.infosystems.gopher/4A-LS_A6qtA/nT89yWKzzsIJ&quot;&gt;(2000)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Similarmente, o sistema Xanadu, que nunca foi lançado, jamais teve seu código-fonte compartilhado, por ser marca registrada do Projeto Xanadu. Uma das invenções do projeto, uma estrutura de dados chamada enfilade, nunca teve sua especificação técnica publicada. Segundo Ted Nelson, líder do projeto original, o motivo para isto seria por que a invenção “ainda é uma &lt;em&gt;parada quente&lt;/em&gt;” — nosso itálico &lt;a href=&quot;http://www.wired.com/wired/archive/3.06/xanadu.html&quot;&gt;(Wired, 1995)&lt;/a&gt;.&lt;/p&gt;
 
@@ -233,7 +233,7 @@ Este legado técnico foi adotado pelo W3C, World Wide Web Consortium, fundado em
       &lt;p&gt;Parte de uma série de artigos que Tim Berners-Lee pretendia publicar como um livro sobre o histórico e funcionamento da web, todos escritos entre 1993 e 1994. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Tim Berners-Lee afirma que entre Julho de 1991 e Julho de 1994, a rede dobrava de tamanho a cada quatro meses — fator que pulava para 10x, se considerados os 12 meses anteriores. (1993/1994a, capítulo “Proliferation”).  &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Tim Berners-Lee afirma que entre Julho de 1991 e Julho de 1994, a rede dobrava de tamanho a cada quatro meses — fator que pulava para 10x, se considerados os 12 meses anteriores. (1993/1994a, capítulo “Proliferation”). &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
       &lt;p&gt;Defense Advanced Research Projects Agency, agência do governo norte-americano responsável por promover a pesquisa e desenvolvimento de novas tecnologias voltadas para aplicação militar. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;

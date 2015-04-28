@@ -1,19 +1,19 @@
 
-danielfos.co/archive.html
-danielfos.co/atom.xml
-danielfos.co/categories.html
-danielfos.co/i-hate-supermarkets.html
-danielfos.co/blog/index.html
-danielfos.co/pt/index.html
-danielfos.co/index.html
-danielfos.co/livro.html
-danielfos.co/pt/livro.html
-danielfos.co/navigations.html
-danielfos.co/pages.html
-danielfos.co/rss.xml
-danielfos.co/sitemap.txt
-danielfos.co/tags.html
+http://dfosco.github.io/v1/archive.html
+http://dfosco.github.io/v1/atom.xml
+http://dfosco.github.io/v1/categories.html
+http://dfosco.github.io/v1/i-hate-supermarkets.html
+http://dfosco.github.io/v1/blog/index.html
+http://dfosco.github.io/v1/pt/index.html
+http://dfosco.github.io/v1/index.html
+http://dfosco.github.io/v1/livro.html
+http://dfosco.github.io/v1/pt/livro.html
+http://dfosco.github.io/v1/navigations.html
+http://dfosco.github.io/v1/pages.html
+http://dfosco.github.io/v1/rss.xml
+http://dfosco.github.io/v1/sitemap.txt
+http://dfosco.github.io/v1/tags.html
 
-danielfos.co/blog/ux_jobs
-danielfos.co/blog/eu-odeio-supermercados
-danielfos.co/blog/25-anos-da-web
+http://dfosco.github.io/v1/blog/ux_jobs
+http://dfosco.github.io/v1/blog/eu-odeio-supermercados
+http://dfosco.github.io/v1/blog/25-anos-da-web

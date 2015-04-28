@@ -51,9 +51,9 @@ Previously, manager for QA and content distribution at the <span class="nowrap">
 
 ---
 
-<p class="port"><a href="/en/livro" title="LIVRO">LIVRO</a> A technological exploration of reading.</p>
+<p class="port"><a href="/v1/en/livro" title="LIVRO">LIVRO</a> A technological exploration of reading.</p>
 
-<p class="port"><a href="/blog/">Blog</a> Mostly in portuguese.</p>
+<p class="port"><a href="/v1/blog/">Blog</a> Mostly in portuguese.</p>
 
 
 ##Say hi
